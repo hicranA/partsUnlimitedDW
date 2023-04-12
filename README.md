@@ -5,3 +5,10 @@ The topic I wish to explore for my data warehouse project is the management of P
 ## Project Summary:
 The primary objective of this project is to create a concep data-warehouse project using slowly changing dimensional. 
 
+**Project Objective**
+The primary objective of this project is to create a concept data warehouse project using a slowly changing dimension approach. I will identify the business requirements by formulating specific business questions that the data warehouse will help answer. Based on these requirements, I will develop a consolidated ERD schema for the data warehouse.
+
+I will focus on storing and analyzing data related to EV charging stations, product information, customer purchases, and geographic location. To accomplish this, I will use a slowly changing dimension approach to ensure that data is properly tracked over time. Specifically, I will use SCD Type 2 to track changes to the customer's location, SCD Type 3 to track changes to the EV product information, and SCD Type 1 to track changes to the charging station information.
+
+Finally, I will use Tableau and Postgres SQL to create reports that will help the business make data-driven decisions based on the data stored in the data warehouse. By using a consolidated ERD schema and slowly changing dimensions, I will ensure that the data warehouse accurately reflects the business needs and can be used to provide valuable insights to the organization.
+
