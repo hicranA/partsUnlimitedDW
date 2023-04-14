@@ -1,109 +1,105 @@
-category,model,model_name,manufacturer,weight,price
-Controller_Accessories,"  AC Motor 3 Phase W ire EV Motor
+category,model,model_description,model_name,manufacturer,weight,price
+Controller_Accessories,"
+","  AC Motor 3 Phase W ire EV Motor
 Cable Set - 2/0 Orange
 Prefabricated HPEVS AC50/51
 2/0 3 Phase Cable Set. ...
-"," :
-"," : EV West
-",: 3.00,: 3.00
-Controller_Accessories,"  Adjustable T emperature Fan &
+",AC Motor 3 Phase W ire EV Motor," : EV West
+",: 3.00,$74.95
+Controller_Accessories," TEMPSWITCH
+","  Adjustable T emperature Fan &
 Pump Switch
 This is an easy solution for an all
 in one thermos ...
-"," : TEMPSWITCH
-"," : EV West
-",: 1.00,: 1.00
-Controller_Accessories,  AEM T esla ," S/X Motor
-Controller Logic Board for Use
-with VCU200
-This product is on manufacture
-backorder until Fal ...
-"," : HPEVS
-",: 5.00,: 5.00
-Controller_Accessories,"  Curtis 1238-1239 Chill Plate Liquid
+",Adjustable T emperature Fan &," : EV West
+",: 1.00,$49.00
+Controller_Accessories," AEM-TSLA
+",  AEM T esla ,AEM T esla," : HPEVS
+",: 5.00,$999.00
+Controller_Accessories," Chill Plate
+","  Curtis 1238-1239 Chill Plate Liquid
 Cooling Kit
 Made from 6061 solid aluminum,
 this 5/8"" thick pla ...
-"," : Chill Plate
-"," : EV West
-",: 8.00,: 8.00
-Controller_Accessories,"  Curtis 1238-1239 Controller Mount
+",Curtis 1238-1239 Chill Plate Liquid," : EV West
+",: 8.00,$155.00
+Controller_Accessories," Controller M
+","  Curtis 1238-1239 Controller Mount
 The EV West Curtis Controller
 Mount is made of 3/1 ...
-"," : Controller M
-"," : EV West
-",: 5.00,: 5.00
-Controller_Accessories,"  Curtis Handheld AC Motor OEM
+",Curtis 1238-1239 Controller Mount," : EV West
+",: 5.00,$149.00
+Controller_Accessories," 1313-4401
+","  Curtis Handheld AC Motor OEM
 Level Programmer 1313-4401
 The Curtis 1313-4401 OEM level
 Handheld Programmer ...
-"," : 1313-4401
-"," : Curtis
-",: 4.00,: 4.00
-Controller_Accessories,"  Curtis PC Motor OEM Level
+",Curtis Handheld AC Motor OEM," : Curtis
+",: 4.00,$699.00
+Controller_Accessories," 1314
+","  Curtis PC Motor OEM Level
 Programmer 1314
 The Curtis 1314 PC based OEM
 level programmer is j ...
-"," : 1314
-"," : Curtis
-",: 1.00,: 1.00
-Controller_Accessories,"  EV W est Billet Aluminum Throttle
+",Curtis PC Motor OEM Level," : Curtis
+",: 1.00,$599.00
+Controller_Accessories," EVWThrottle
+","  EV W est Billet Aluminum Throttle
 Potentiometer
 Uses a high quality OEM throttle
 position sensor ( ...
-"," : EVWThrottle
-"," : EV West
-",: 3.00,: 3.00
-Controller_Accessories,"  NetGain/SME Hyper 9 AC-X120,
+",EV W est Billet Aluminum Throttle," : EV West
+",: 3.00,$179.00
+Controller_Accessories," EVW -
+H9CP-3
+","  NetGain/SME Hyper 9 AC-X120,
 AC-X144 Chill Plate for VW Adapter
 Plate
 Made from 6061 solid aluminum,
 this 5/8"" thick pla ...
-"," : EVW -
-H9CP-3
-"," : EV West
-",: 8.00,: 8.00
-Controller_Accessories,"  NetGain/SME Hyper 9 AC-X120,
+","NetGain/SME Hyper 9 AC-X120,"," : EV West
+",: 8.00,$145.00
+Controller_Accessories," EVW -H9CP
+","  NetGain/SME Hyper 9 AC-X120,
 AC-X144 Chill Plate Liquid Cooling
 Kit
 Made from 6061 solid aluminum,
 this 5/8"" thick pla ...
-"," : EVW -H9CP
-"," : EV West
-",: 8.00,: 8.00
-Controller_Accessories,"  Single Channel Opto-Isolator
+","NetGain/SME Hyper 9 AC-X120,"," : EV West
+",: 8.00,$135.00
+Controller_Accessories," Iso
+","  Single Channel Opto-Isolator
 Tachometer Module for Curtis 1238
 This single channel Opto-Isolator
 has been specifi ...
-"," : Iso
-"," : HPEVS
-",: 1.00,: 1.00
-Controller_Accessories,"  Subaru WRX STI Accelerator Pedal
+",Single Channel Opto-Isolator," : HPEVS
+",: 1.00,$58.00
+Controller_Accessories," WRX
+Throttle
+","  Subaru WRX STI Accelerator Pedal
 - Hall Effect W ith Plug
 These Standard OE Motor
 accelerator pedal sensors ...
-"," : WRX
-Throttle
-"," : EV West
-",: 2.00,: 2.00
-Controller_Accessories,"  Toyota Prius Throttle Pedal Mount
+",Subaru WRX STI Accelerator Pedal," : EV West
+",: 2.00,$119.00
+Controller_Accessories," bracket
+","  Toyota Prius Throttle Pedal Mount
 This bracket was designed to
 mount the Toyota Priu ...
-"," : bracket
-"," : EV West
-",: 2.00,: 2.00
-Controller_Accessories,"  Toyota Prius Throttle Pedal Plug
+",Toyota Prius Throttle Pedal Mount," : EV West
+",: 2.00,$29.89
+Controller_Accessories," Plug
+","  Toyota Prius Throttle Pedal Plug
 This plug fits the Toyota Prius
 Pedal (78120-47050 ...
-"," : Plug
-"," : EV West
-",: 1.00,: 1.00
-Controller_Accessories,"  Universal Ball and Socket for EV
+",Toyota Prius Throttle Pedal Plug," : EV West
+",: 1.00,$18.00
+Controller_Accessories," Ball and
+Soc
+","  Universal Ball and Socket for EV
 Throttle Control Lever - Hall Effect
 Throttle
 This is the best solution for
 adapting your existi ...
-"," : Ball and
-Soc
-"," : EV West
-",: 0.20,: 0.20
+",Universal Ball and Socket for EV," : EV West
+",: 0.20,$29.00

@@ -1,159 +1,156 @@
-category,model,model_name,manufacturer,weight,price
-Motors,"  AM Racing AMR 250-90 Single AC
+category,model,model_description,model_name,manufacturer,weight,price
+Motors," AMR 250-
+90
+","  AM Racing AMR 250-90 Single AC
 Motor - Liquid Cooled, Permanent
 Magnet - Remy Cartridge
 This AM Racing motor is based
 on the very proven R ...
-"," : AMR 250-
-90
-"," : AM Racing
-",: 150.00,: 150.00
-Motors,"  AM Racing AMR Dual Stack 250-90
+",AM Racing AMR 250-90 Single AC," : AM Racing
+",: 150.00,"$10,900.00"
+Motors," AMR 250-
+90D
+","  AM Racing AMR Dual Stack 250-90
 AC Motor - Liquid Cooled,
 Permanent Magnet - Remy
 This AM Racing motor is based
 on the very proven R ...
-"," : AMR 250-
-90D
-"," : AM Racing
-",: 180.00,: 180.00
-Motors,"  Curtis 1236SE-5621 HPEVS AC-20
+",AM Racing AMR Dual Stack 250-90," : AM Racing
+",: 180.00,"$18,488.00"
+Motors," AC20/48
+","  Curtis 1236SE-5621 HPEVS AC-20
 Brushless AC Motor Kit - 48 V olt
 The AC20 is an AC induction
 motor that operates at ...
-"," : AC20/48
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1236SE-5621 HPEVS AC-34
+",Curtis 1236SE-5621 HPEVS AC-20," : HPEVS
+",: 60.00,"$3,050.00"
+Motors," AC-34-48
+","  Curtis 1236SE-5621 HPEVS AC-34
 Brushless AC Motor Kit - 48 V olts
 The AC-34 is an AC motor that
 operates at 36-60V. ...
-"," : AC-34-48
-"," : HPEVS
-",: 85.00,: 85.00
-Motors,"  Curtis 1236SE-5621 HPEVS AC-9
+",Curtis 1236SE-5621 HPEVS AC-34," : HPEVS
+",: 85.00,"$3,500.00"
+Motors," Motor
+","  Curtis 1236SE-5621 HPEVS AC-9
 Brushless AC Motor Kit - 48 V olt
 The AC-9 is an AC motor that
 operates at 36-60V. I ...
-"," : Motor
-"," : HPEVS
-",: 50.00,: 50.00
-Motors,"  Curtis 1238-6501 HPEVS AC-20
+",Curtis 1236SE-5621 HPEVS AC-9," : HPEVS
+",: 50.00,"$2,625.00"
+Motors," Motor
+","  Curtis 1238-6501 HPEVS AC-20
 Brushless AC Motor Kit - 72 V olt
 The AC-20 is an AC motor that
 operates at 48-80V. ...
-"," : Motor
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1238-6501 HPEVS AC-34
+",Curtis 1238-6501 HPEVS AC-20," : HPEVS
+",: 60.00,"$3,599.00"
+Motors," Motor
+","  Curtis 1238-6501 HPEVS AC-34
 Brushless AC Motor Kit - 72 V olt
 The AC-34 is an AC motor that
 operates at 48-80V. ...
-"," : Motor
-"," : HPEVS
-",: 85.00,: 85.00
-Motors,"  Curtis 1238-7601 HPEVS AC-20
+",Curtis 1238-6501 HPEVS AC-34," : HPEVS
+",: 85.00,"$4,225.00"
+Motors," Motor
+","  Curtis 1238-7601 HPEVS AC-20
 Brushless AC Motor Kit - 96 V olt
 The AC20 is an AC induction
 motor that operates at ...
-"," : Motor
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1238-7601 HPEVS AC-23
+",Curtis 1238-7601 HPEVS AC-20," : HPEVS
+",: 60.00,"$4,300.00"
+Motors," Motor
+","  Curtis 1238-7601 HPEVS AC-23
 Brushless AC Motor Kit - 96 V olt
 The AC 23 motor is same size as
 its sister motor t ...
-"," : Motor
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1238-7601 HPEVS AC-34
+",Curtis 1238-7601 HPEVS AC-23," : HPEVS
+",: 60.00,"$3,800.00"
+Motors," AC-34-96
+","  Curtis 1238-7601 HPEVS AC-34
 Brushless AC Motor Kit - 96 V olt
 The AC-34 is an AC motor that
 operates at 72-128V. ...
-"," : AC-34-96
-"," : HPEVS
-",: 120.00,: 120.00
-Motors,"  Curtis 1238-7601 HPEVS AC-50
+",Curtis 1238-7601 HPEVS AC-34," : HPEVS
+",: 120.00,"$4,550.00"
+Motors," AC-50-96
+","  Curtis 1238-7601 HPEVS AC-50
 Brushless AC Motor Kit - 96 V olt
 The AC50 is an AC motor that
 operates at 72-108V. ...
-"," : AC-50-96
-"," : HPEVS
-",: 150.00,: 150.00
-Motors,"  Curtis 1238e-7621 HPEVS Dual AC-
+",Curtis 1238-7601 HPEVS AC-50," : HPEVS
+",: 150.00,"$5,200.00"
+Motors," AC2-34
+","  Curtis 1238e-7621 HPEVS Dual AC-
 34 Brushless Motor Kit - 96 V olt
 This is a great dual motor setup
 for vehicles up t ...
-"," : AC2-34
-"," : HPEVS
-",: 160.00,: 160.00
-Motors,"  Curtis 1239e-8521 HPEVS AC-35
+",Curtis 1238e-7621 HPEVS Dual AC-," : HPEVS
+",: 160.00,"$8,950.00"
+Motors," AC-35-144
+","  Curtis 1239e-8521 HPEVS AC-35
 Brushless AC Motor Kit - 144 V olt
 The AC35 is an AC motor that
 operates at 120-164V. ...
-"," : AC-35-144
-"," : HPEVS
-",: 120.00,: 120.00
-Motors,"  Curtis 1239e-8521 HPEVS AC-51
+",Curtis 1239e-8521 HPEVS AC-35," : HPEVS
+",: 120.00,"$4,825.00"
+Motors," AC-51-144
+","  Curtis 1239e-8521 HPEVS AC-51
 Brushless AC Motor Kit - 144 V olt
 The AC51 is an AC motor that
 operates at a higher ...
-"," : AC-51-144
-"," : HPEVS
-",: 150.00,: 150.00
-Motors,"  Curtis 1239e-8521 HPEVS Dual AC-
+",Curtis 1239e-8521 HPEVS AC-51," : HPEVS
+",: 150.00,"$5,499.00"
+Motors," AC2-35-144
+","  Curtis 1239e-8521 HPEVS Dual AC-
 35 Brushless Motor Kit - 144 V olt
 This is a great dual motor setup
 for vehicles up t ...
-"," : AC2-35-144
-"," : HPEVS
-",: 160.00,: 160.00
-Motors,"  NetGain HyPer9 AC Motor X1
+",Curtis 1239e-8521 HPEVS Dual AC-," : HPEVS
+",: 160.00,"$10,100.00"
+Motors," H9-ACX1
+","  NetGain HyPer9 AC Motor X1
 Controller Kit 120 V olt
 The long awaited AC motor from
 NetGain is here. T ...
-"," : H9-ACX1
-"," : NetGain
+",NetGain HyPer9 AC Motor X1," : NetGain
 Motors
-",: 120.00,: 120.00
-Motors,"  NetGain HyPer9 HV AC Motor X144
+",: 120.00,"$5,150.00"
+Motors," H9HV -
+ACX144
+","  NetGain HyPer9 HV AC Motor X144
 Controller Kit 144 V olt
 The long awaited higher voltage
 AC motor from Net ...
-"," : H9HV -
-ACX144
-"," : NetGain
+",NetGain HyPer9 HV AC Motor X144," : NetGain
 Motors
-",: 120.00,: 120.00
-Motors,"  Tesla Dual Motor All Wheel Drive
+",: 120.00,"$5,400.00"
+Motors," TSLA-MS-
+AWD
+","  Tesla Dual Motor All Wheel Drive
 Kit - EV Controls T2-C Controller
-We now have the Tesla "," S
-dual drive unit for ...
-"," : Tesla
-",: 550.00,: 550.00
-Motors,"  Tesla Front Motor Kit - EV Controls
+We now have the Tesla ",Tesla Dual Motor All Wheel Drive," : Tesla
+",: 550.00,"$17,900.00"
+Motors," TSLA-MS-
+FRT
+","  Tesla Front Motor Kit - EV Controls
 T2-C Controller
-We now have the Tesla "," S
-front drive unit for ...
-"," : Tesla
-",: 230.00,: 230.00
-Motors,  Tesla ," 3 Rear Drive Unit -
-Starter Kit - EV Controls T2-C
-Controller
-With such a small total package,
-this drive unit s ...
-"," : Tesla
-",: 225.00,: 225.00
-Motors,  Tesla ," S Drive Unit - Starter
-Kit - EV Controls T2-C Controller
-We now have the Tesla "," : Tesla
-",: 295.00,: 295.00
-Motors,"  Tesla Small Rear Drive Unit -
-Starter Kit - EV Controls T2-C
-Controller
-With such a small total package,
-this drive unit s ...
-"," : TSLA-MS-
+We now have the Tesla ",Tesla Front Motor Kit - EV Controls," : Tesla
+",: 230.00,"$9,900.00"
+Motors," TSLA-M3-
+T2C
+",  Tesla ,Tesla," : Tesla
+",: 225.00,"$9,900.00"
+Motors," TSLA-MS-
+DU
+",  Tesla ,Tesla," : Tesla
+",: 295.00,"$11,900.00"
+Motors," TSLA-MS-
 SDU
-"," : Tesla
-",: 225.00,: 225.00
+","  Tesla Small Rear Drive Unit -
+Starter Kit - EV Controls T2-C
+Controller
+With such a small total package,
+this drive unit s ...
+",Tesla Small Rear Drive Unit -," : Tesla
+",: 225.00,"$9,900.00"

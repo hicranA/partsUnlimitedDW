@@ -1,74 +1,74 @@
-category,model,model_name,manufacturer,weight,price
-Instrumentation,"  1000 Amp 50 MV Shunt
-These Deltec shunts are known
-for being one of the ...
-"," : 1000a
+category,model,model_description,model_name,manufacturer,weight,price
+Instrumentation," 1000a
 Shunt
-"," : Deltec
-",: 3.00,: 3.00
-Instrumentation,"  500 Amp 50 MV Shunt
+","  1000 Amp 50 MV Shunt
 These Deltec shunts are known
 for being one of the ...
-"," : 500a Shunt
-"," : Deltec
-",: 2.00,: 2.00
-Instrumentation,"  600 Amp 50 MV Shunt
+",1000 Amp 50 MV Shunt," : Deltec
+",: 3.00,$67.00
+Instrumentation," 500a Shunt
+","  500 Amp 50 MV Shunt
 These Deltec shunts are known
 for being one of the ...
-"," : 600a Shunt
-"," : Deltec
-",: 2.00,: 2.00
-Instrumentation,"  AEM CD5 Carbon Flat Panel CAN
+",500 Amp 50 MV Shunt," : Deltec
+",: 2.00,$38.00
+Instrumentation," 600a Shunt
+","  600 Amp 50 MV Shunt
+These Deltec shunts are known
+for being one of the ...
+",600 Amp 50 MV Shunt," : Deltec
+",: 2.00,$47.00
+Instrumentation," CD5-F
+","  AEM CD5 Carbon Flat Panel CAN
 Bus Display
 CD-5F (Flat Panel) Carbon Digital
 Dash Displays fe ...
-"," : CD5-F
-"," : AEM
-",: 3.00,: 3.00
-Instrumentation,"  AEM CD7 Carbon Flat Panel CAN
+",AEM CD5 Carbon Flat Panel CAN," : AEM
+",: 3.00,$989.00
+Instrumentation," CD7-F
+","  AEM CD7 Carbon Flat Panel CAN
 Bus Display
 CD-7F (Flat Panel) Carbon Digital
 Dash Displays fe ...
-"," : CD7-F
-"," : AEM
-",: 3.00,: 3.00
-Instrumentation,"  CAN Bus Shunt IVT -S 1000A  for
+",AEM CD7 Carbon Flat Panel CAN," : AEM
+",: 3.00,"$1,399.00"
+Instrumentation," CAN-
+SHUNT
+","  CAN Bus Shunt IVT -S 1000A  for
 Digital Instrumentation by ISA
 Scale Isabellenhutte
 The IVT-S intelligent current and
 voltage measurem ...
-"," : CAN-
-SHUNT
-"," :
-",: 1.00,: 1.00
-Instrumentation,"  EV W est CAN Bus T achometer
+",CAN Bus Shunt IVT -S 1000A  for," :
+",: 1.00,$349.00
+Instrumentation," EVW -
+CBTH9
+","  EV W est CAN Bus T achometer
 Output Adapter for Hyper9 Drive
 Systems
 The EV West CAN Bus
 Tachometer adapter will allow ...
-"," : EVW -
-CBTH9
-"," : EV West
-",: 1.00,: 1.00
-Instrumentation,"  Single Gauge Pod
+",EV W est CAN Bus T achometer," : EV West
+",: 1.00,$149.00
+Instrumentation," GaugePod
+","  Single Gauge Pod
 This Single Gauge Pod is a
 perfect fit for the Cur ...
-"," : GaugePod
-"," :
-",: 1.00,: 1.00
-Instrumentation,"  TBS 5:1 Pre-scaler
+",Single Gauge Pod," :
+",: 1.00,$9.99
+Instrumentation," 5:1 Pre-scal
+","  TBS 5:1 Pre-scaler
 Great pre-scaler to give your
 Xantrex LinkPro ...
-"," : 5:1 Pre-scal
-"," : TBS
+",TBS 5:1 Pre-scaler," : TBS
 Electronics
-",: 1.00,: 1.00
-Instrumentation,"  TBS Expert Pro Battery Monitor -
+",: 1.00,$95.00
+Instrumentation," TBS Expert
+P
+","  TBS Expert Pro Battery Monitor -
 For Lithium Packs up to 350V
 The TBS Expert Pro Battery
 Monitor can measure cur ...
-"," : TBS Expert
-P
-"," : TBS
+",TBS Expert Pro Battery Monitor -," : TBS
 Electronics
-",: 1.00,: 1.00
+",: 1.00,$269.00

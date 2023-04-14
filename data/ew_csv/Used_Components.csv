@@ -1,89 +1,85 @@
-category,model,model_name,manufacturer,weight,price
-Used_Components,"  2 Pole T yco High V oltage
+category,model,model_description,model_name,manufacturer,weight,price
+Used_Components," SC-HVC
+","  2 Pole T yco High V oltage
 Receptacle Connector and Cable
 Plug from Electric Smart Car
 These Two Pole Tyco connectors
 were used in a 330V ...
-"," : SC-HVC
-"," : Tyco Kilovac
-",: 5.00,: 5.00
-Used_Components,"  200 Amp 50 mV Shunt from
+",2 Pole T yco High V oltage," : Tyco Kilovac
+",: 5.00,$60.00
+Used_Components," SC-SHUNT
+","  200 Amp 50 mV Shunt from
 Electric Smart Car
 This 200 Amp 50 MV commercial
 shunt by Empro has l ...
-"," : SC-SHUNT
-"," : Empro
+",200 Amp 50 mV Shunt from," : Empro
 Shunts
-",: 0.00,: 0.00
-Used_Components,"  In-line Fluid Heater from Electric
+",: 0.00,$20.00
+Used_Components," SC-WH
+","  In-line Fluid Heater from Electric
 Smart Car
 This used Calix in-line water
 heater is Swedish ma ...
-"," : SC-WH
-"," : Smart
-",: 1.00,: 1.00
-Used_Components,"  Precharge Resistor from T esla and
+",In-line Fluid Heater from Electric," : Smart
+",: 1.00,$60.00
+Used_Components," SC-PCR
+","  Precharge Resistor from T esla and
 Electric Smart Car
 These precharge resistors are
 made by RARA, a high ...
-"," : SC-PCR
-"," : Tesla
-",: 0.00,: 0.00
-Used_Components,  Tesla ," S Lithium Ion Battery
-18650 EV Module - 22.8 V olt, 5.3
-kWh
-These used 18650 Tesla battery
-modules from a 85kW ...
-"," : Tesla
-",: 55.00,: 55.00
-Used_Components,"  Used 1500W Electric V ehicle
+",Precharge Resistor from T esla and," : Tesla
+",: 0.00,$29.00
+Used_Components," Tesla MS
+",  Tesla ,Tesla," : Tesla
+",: 55.00,"$1,580.00"
+Used_Components," SC-HE
+","  Used 1500W Electric V ehicle
 Heater , Ceramic PTC Element -
 From Electric Smart Car
 This ceramic PTC electric heater
 from an OEM proto ...
-"," : SC-HE
-"," : Behr
-",: 3.00,: 3.00
-Used_Components,"  Used Inertia Switch from Electric
+",Used 1500W Electric V ehicle," : Behr
+",: 3.00,$99.00
+Used_Components," SC-
+INER TIA
+","  Used Inertia Switch from Electric
 Smart Car
 This USED 360 degree crash
 sensor can directly shu ...
-"," : SC-
-INER TIA
-"," :
-",: 1.00,: 1.00
-Used_Components,"  Used Radiator Fan from Electric
+",Used Inertia Switch from Electric," :
+",: 1.00,$25.00
+Used_Components," SC-F AN
+","  Used Radiator Fan from Electric
 Smart Car
 This Behr fan is from the radiator
 assembly of a S ...
-"," : SC-F AN
-"," : Smart
-",: 3.00,: 3.00
-Used_Components,"  Used Radiator from Electric Smart
+",Used Radiator Fan from Electric," : Smart
+",: 3.00,$40.00
+Used_Components," SC-RAD
+","  Used Radiator from Electric Smart
 Car
 This Behr radiator was in a
 cooling system with a ...
-"," : SC-RAD
-"," : Smart
-",: 4.00,: 4.00
-Used_Components,"  Used Throttle Pedal with Plug -
+",Used Radiator from Electric Smart," : Smart
+",: 4.00,$80.00
+Used_Components," SC-PED
+","  Used Throttle Pedal with Plug -
 From Electric Smart Car
 These Used Smart FourTwo
 pedals create acceleratio ...
-"," : SC-PED
-"," : Smart
-",: 1.00,: 1.00
-Used_Components,"  Used T oyota Prius Throttle Pedal
+",Used Throttle Pedal with Plug -," : Smart
+",: 1.00,$80.00
+Used_Components," Throttle
+","  Used T oyota Prius Throttle Pedal
 with Plug 78120-47050
 These Standard OE Motor
 accelerator pedal sensors ...
-"," : Throttle
-"," : EV West
-",: 2.00,: 2.00
-Used_Components,"  Used W ater Pump from Electric
+",Used T oyota Prius Throttle Pedal," : EV West
+",: 2.00,$139.00
+Used_Components," SC-WP
+","  Used W ater Pump from Electric
 Smart Car
 This OEM pump has been used
 for less than 5000 mil ...
-"," : SC-WP
-"," : Smart
-",: 3.00,: 3.00
+",Used W ater Pump from Electric," : Smart
+",: 3.00,$80.00

@@ -1,106 +1,106 @@
-category,model,model_name,manufacturer,weight,price
-EV_Conversion_Kits,"  EV T rainer Cart - Fully Assembled
+category,model,model_description,model_name,manufacturer,weight,price
+EV_Conversion_Kits," EVT-CAR T
+","  EV T rainer Cart - Fully Assembled
 and Running - AC50 or Hyper9
 The EV Trainer cart is a fully
 assembled and fully ...
-"," : EVT-CAR T
-"," : EV West
-",: 340.00,: 340.00
-EV_Conversion_Kits,"  Karmann Ghia EV Conversion Kit,
+",EV T rainer Cart - Fully Assembled," : EV West
+",: 340.00,"$32,995.00"
+EV_Conversion_Kits," EVW -GHIA-
+KIT
+","  Karmann Ghia EV Conversion Kit,
 AC Motor , Regen Braking, 1955-
 1974
 The EV West VW Karmann Ghia
 Super Beetle Kit is ve ...
-"," : EVW -GHIA-
-KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 356 Speedster EV
+","Karmann Ghia EV Conversion Kit,"," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," Porsche
+356
+","  Porsche 356 Speedster EV
 Conversion Kit, Regen Brakes, AC
 Motor , All Years
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-356
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 91 1 EV Conversion Kit,
+",Porsche 356 Speedster EV," : EV West
+",: 380.00,"$8,734.00"
+EV_Conversion_Kits," Porsche
+911
+","  Porsche 91 1 EV Conversion Kit,
 Regen Brakes, AC Motor 1965-1986
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-911
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 912 EV Conversion Kit,
+","Porsche 91 1 EV Conversion Kit,"," : EV West
+",: 380.00,"$11,594.00"
+EV_Conversion_Kits," Porsche
+912
+","  Porsche 912 EV Conversion Kit,
 Regen Brakes, AC Motor 1965-
 1969, 1976
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-912
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 914 EV Conversion Kit,
+","Porsche 912 EV Conversion Kit,"," : EV West
+",: 380.00,"$11,594.00"
+EV_Conversion_Kits," Porsche
+914
+","  Porsche 914 EV Conversion Kit,
 Regen Brakes, AC Motor 1969-1976
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-914
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Universal NetGain Hyper 9 120V
+","Porsche 914 EV Conversion Kit,"," : EV West
+",: 380.00,"$8,734.00EV CONVERSION KITS"
+EV_Conversion_Kits," EVW -H9-
+UNV
+","  Universal NetGain Hyper 9 120V
 EV Conversion Package - Motor ,
 Inverter , Throttle, Instrument, Chill
 Plate
 The EV West ""Universal"" Starter
 Kit is perfect for ...
-"," : EVW -H9-
-UNV
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen Super Beetle EV
+",Universal NetGain Hyper 9 120V," : EV West
+",: 380.00,"$5,977.00"
+EV_Conversion_Kits," EVW -SB-
+KIT
+","  Volkswagen Super Beetle EV
 Conversion Kit Complete, Regen
 Brakes 1971-1979
 The EV West VW Super Beetle
 Kit is very unique in ...
-"," : EVW -SB-
+",Volkswagen Super Beetle EV," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," EVW -BTL-
 KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Beetle/Bug EV
+","  Volkswagen VW Beetle/Bug EV
 Conversion Complete Kit, Regen
 Brakes, Battery Packs 1956-1977
 The EV West VW Super Beetle
 Kit is very unique in ...
-"," : EVW -BTL-
+",Volkswagen VW Beetle/Bug EV," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," EVW -T2-
 KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Bus, T ype 2,
+","  Volkswagen VW Bus, T ype 2,
 Samba EV Conversion Kit, Regen
 Brakes, AC Motor 1950-1979
 The EV West Air Cooled
 Volkswagen Type 2 Kit is ve ...
-"," : EVW -T2-
-KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Notchback EV
+","Volkswagen VW Bus, T ype 2,"," : EV West
+",: 380.00,"$21,098.64"
+EV_Conversion_Kits," EVW -
+NTCH-KIT
+","  Volkswagen VW Notchback EV
 Conversion Kit, AC Motor , Regen
 Braking, T ype 3 1961-1973
 The EV West VW Type 3
 Notchback Kit is very unique ...
-"," : EVW -
-NTCH-KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Thing EV
+",Volkswagen VW Notchback EV," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," EVW -
+THNG-KIT
+","  Volkswagen VW Thing EV
 Conversion Kit, AC Motor , Regen
 Braking, 1968-1980
 The EV West VW Thing Kit is
 very unique in the fac ...
-"," : EVW -
-THNG-KIT
-"," : EV West
-",: 380.00,: 380.00
+",Volkswagen VW Thing EV," : EV West
+",: 380.00,"$19,278.64"

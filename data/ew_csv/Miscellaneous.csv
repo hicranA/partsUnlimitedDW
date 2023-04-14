@@ -1,168 +1,165 @@
-category,model,model_name,manufacturer,weight,price
-Miscellaneous,"  1500W High V oltage Heater
+category,model,model_description,model_name,manufacturer,weight,price
+Miscellaneous," Heater
+","  1500W High V oltage Heater
 Element
 1500W element can run on
 traction pack voltages fr ...
-"," : Heater
-"," : Canadian EV
-",: 3.00,: 3.00
-Miscellaneous,"  175 Amp Anderson SB175
+",1500W High V oltage Heater," : Canadian EV
+",: 3.00,$199.00
+Miscellaneous," SB175
+Cover
+","  175 Amp Anderson SB175
 Connector Cover
 This cover is for the Anderson
 175 Amp multipole p ...
-"," : SB175
-Cover
-"," :
-",: 0.50,: 0.50
-Miscellaneous,"  50 Amp Anderson SB50 Connector
+",175 Amp Anderson SB175," :
+",: 0.50,$8.00
+Miscellaneous," SB50 Cover
+","  50 Amp Anderson SB50 Connector
 Cover
 This cover is for the Anderson 50
 Amp multipole po ...
-"," : SB50 Cover
-"," :
-",: 0.50,: 0.50
-Miscellaneous,"  AEM Electronics VCU 200
+",50 Amp Anderson SB50 Connector," :
+",: 0.50,$6.00
+Miscellaneous," AEM-
+VCU200
+","  AEM Electronics VCU 200
 Programmable Electric V ehicle
 Control Unit
 AEM EV Vehicle Control Units
 (VCUs) are the missin ...
-"," : AEM-
-VCU200
-"," : AEM
-",: 4.00,: 4.00
-Miscellaneous,"  Brake V acuum Reservoir Canister -
+",AEM Electronics VCU 200," : AEM
+",: 4.00,"$1,598.00"
+Miscellaneous," VAC-RES-
+PL
+","  Brake V acuum Reservoir Canister -
 Plastic
 This is a common reservoir used
 to hold vacuum wit ...
-"," : VAC-RES-
-PL
-"," : MSD Ignition
-",: 1.00,: 1.00
-Miscellaneous,"  CVR V acuum Pump VP555 - EV
+",Brake V acuum Reservoir Canister -," : MSD Ignition
+",: 1.00,$19.99
+Miscellaneous," Vac Pump
+CVR
+","  CVR V acuum Pump VP555 - EV
 Brake Booster
 Unfortunately we are no longer
 stocking this produ ...
-"," : Vac Pump
-CVR
-"," :
-",: 9.00,: 9.00
-Miscellaneous,"  Danger High V oltage W arning
+",CVR V acuum Pump VP555 - EV," :
+",: 9.00,$299.00
+Miscellaneous," HVSTICK-
+LG
+","  Danger High V oltage W arning
 Sticker - Large - 5 x 3
 High Voltage sticker for contactor
 boxes, battery ...
-"," : HVSTICK-
-LG
-"," : EV West
-",: 0.10,: 0.10
-Miscellaneous,"  Danger High V oltage W arning
+",Danger High V oltage W arning," : EV West
+",: 0.10,$4.99
+Miscellaneous," HVSTICK-
+SM
+","  Danger High V oltage W arning
 Sticker - Small - 2.5 x 1.5
 High Voltage sticker for contactor
 boxes, battery ...
-"," : HVSTICK-
-SM
-"," : EV West
-",: 0.10,: 0.10
-Miscellaneous,"  Dilithium BMS Controller
+",Danger High V oltage W arning," : EV West
+",: 0.10,$3.99
+Miscellaneous," TS-BMSM
+","  Dilithium BMS Controller
 Designed to be used in electric
 vehicle applicatio ...
-"," : TS-BMSM
-"," :
-",: 1.50,: 1.50
-Miscellaneous,"  Dilithium BMS Harness T ester
+",Dilithium BMS Controller," :
+",: 1.50,$450.00
+Miscellaneous," TS-BMST
+","  Dilithium BMS Harness T ester
 The BMS harness tester tests the
 Dilithium BMS wir ...
-"," : TS-BMST
-"," :
-",: 1.00,: 1.00
-Miscellaneous,"  Dilithium BMS Satellite
+",Dilithium BMS Harness T ester," :
+",: 1.00,$5.00
+Miscellaneous," TS-BMSS
+","  Dilithium BMS Satellite
 Each BMS Satellite allows
 monitoring of up to 24 m ...
-"," : TS-BMSS
-"," :
-",: 1.50,: 1.50
-Miscellaneous,"  Electric Power Steering Unit for
+",Dilithium BMS Satellite," :
+",: 1.50,$275.00
+Miscellaneous," PSU
+","  Electric Power Steering Unit for
 Electric V ehicles
 This power steering unit is an
 electrically-driven ...
-"," : PSU
-"," :
-",: 17.00,: 17.00
-Miscellaneous,"  EV Pedestrian T rolly Bell - Horn
+",Electric Power Steering Unit for," :
+",: 17.00,$749.00
+Miscellaneous," PEDBELL
+","  EV Pedestrian T rolly Bell - Horn
 Alternative
 We got enough requests for a
 pedestrian horn for t ...
-"," : PEDBELL
-"," : EV West
-",: 1.00,: 1.00
-Miscellaneous,"  High V oltage Universal Heater Kit
+",EV Pedestrian T rolly Bell - Horn," : EV West
+",: 1.00,$48.00
+Miscellaneous," Heater
+","  High V oltage Universal Heater Kit
 Heater can run on traction pack
 voltages from 36-3 ...
-"," : Heater
-"," : Canadian EV
-",: 5.00,: 5.00
-Miscellaneous,"  J1772 Inlet Mounting Plate for
+",High V oltage Universal Heater Kit," : Canadian EV
+",: 5.00,$899.00
+Miscellaneous," Charge
+Plate
+","  J1772 Inlet Mounting Plate for
 Charging Receptacle
 We developed these simple
 aluminum mounting plates ...
-"," : Charge
-Plate
-"," : EV West
-",: 0.50,: 0.50
-Miscellaneous,"  Lithium 16S Battery Module BMS
+",J1772 Inlet Mounting Plate for," : EV West
+",: 0.50,$18.88
+Miscellaneous," 2.6-16S-
+PCB
+","  Lithium 16S Battery Module BMS
 PCB Parallel Connection Boards
 These EV West PCB boards will
 simplify the wiring ...
-"," : 2.6-16S-
-PCB
-"," : EV West
-",: 1.00,: 1.00
-Miscellaneous,"  Spicer 1350 Series 27 Spline
+",Lithium 16S Battery Module BMS," : EV West
+",: 1.00,$44.00
+Miscellaneous," Slip Yoke
+","  Spicer 1350 Series 27 Spline
 Powerglide, T -350, 700R, 200R and
 4L60 T ransmission Slip Yoke
 Spicer 1350 27 spline Slip Yoke.
 Fits Powergli ...
-"," : Slip Yoke
-"," : EV West
-",: 4.00,: 4.00
-Miscellaneous,"  SSBC V acuum Pump Kit - EV
+",Spicer 1350 Series 27 Spline," : EV West
+",: 4.00,$88.00
+Miscellaneous," Vac Pump
+","  SSBC V acuum Pump Kit - EV
 Brake Booster
 This SSBC electric vacuum pump
 is the perfect solu ...
-"," : Vac Pump
-"," : SSBC
-",: 9.00,: 9.00
-Miscellaneous,  Tesla ," S/X Battery Module
-BMS Connectivity and Protection
-PCB Boards
-These EV West PCB boards will
-simplify the wiring ...
-"," : EV West
-",: 1.00,: 1.00
-Miscellaneous,"  Universal Starter Cover Plate - Fits
+",SSBC V acuum Pump Kit - EV," : SSBC
+",: 9.00,$288.00
+Miscellaneous," TESLA-BM-
+PCB
+",  Tesla ,Tesla," : EV West
+",: 1.00,$54.00
+Miscellaneous," Starter
+Cove
+","  Universal Starter Cover Plate - Fits
 VW, Porsche, and more
 Here is a small item that will really
 help give yo ...
-"," : Starter
-Cove
-"," : EV West
-",: 0.50,: 0.50
-Miscellaneous,"  Vibro Sound Deadening Mat
+",Universal Starter Cover Plate - Fits," : EV West
+",: 0.50,$16.88
+Miscellaneous," BMB3
+","  Vibro Sound Deadening Mat
 Vibro Damping Mats offer self-
 adhesive sound deade ...
-"," : BMB3
-"," : EV West
-",: 4.00,: 4.00
-Miscellaneous,"  VW Splitty Bus Charge Inlet Billet
+",Vibro Sound Deadening Mat," : EV West
+",: 4.00,$16.99
+Miscellaneous," EVW -T1CI
+","  VW Splitty Bus Charge Inlet Billet
 Aluminum Mounting Plate
 Ease the installation on your '52-
 '67 Volkswagen B ...
-"," : EVW -T1CI
-"," : EV West
-",: 3.00,: 3.00
-Miscellaneous,"  Wurth Copper T erminal Paste - CU
+",VW Splitty Bus Charge Inlet Billet," : EV West
+",: 3.00,$79.00
+Miscellaneous," CU800
+","  Wurth Copper T erminal Paste - CU
 800
 Wurth CU 800 is a high
 temperature and high pressu ...
-"," : CU800
-"," : EV West
-",: 0.50,: 0.50
+",Wurth Copper T erminal Paste - CU," : EV West
+",: 0.50,$7.25
