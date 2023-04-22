@@ -1,47 +1,47 @@
-category,model,model_name,manufacturer,weight,price
-DrivetrainComponents,"  Remanufactured 2 Speed
+category,model,model_description,model_name,manufacturer,weight,price
+DrivetrainComponents," RemT rans
+","  Remanufactured 2 Speed
 VW/Porsche T ransmission for EV
 Motors
 These remanufactured
 transmissions are designed an ...
-"," : RemT rans
-"," : EV West
-",: 125.00,: 125.00
-DrivetrainComponents,"  Spicer 1310 Series 1-1/8 inch Yoke
+",Remanufactured 2 Speed," : EV West
+",: 125.00,"$1,999.00"
+DrivetrainComponents," SR-1310
+","  Spicer 1310 Series 1-1/8 inch Yoke
 With 1/4 inch Keyway
 This Spicer 1310 Series Yoke will
 fit any 1-1/8 in ...
-"," : SR-1310
-"," : EV West
-",: 2.00,: 2.00
-DrivetrainComponents,"  Spicer 1350 Series 1-1/8 inch Yoke
+",Spicer 1310 Series 1-1/8 inch Yoke," : EV West
+",: 2.00,$142.00
+DrivetrainComponents," SR-1350
+","  Spicer 1350 Series 1-1/8 inch Yoke
 With 1/4 inch Keyway
 This Spicer 1350 Series Yoke will
 fit any 1-1/8 in ...
-"," : SR-1350
-"," : EV West
-",: 2.00,: 2.00
-DrivetrainComponents,"  Spicer 1350 Series 27 Spline
+",Spicer 1350 Series 1-1/8 inch Yoke," : EV West
+",: 2.00,$152.00
+DrivetrainComponents," Slip Yoke
+","  Spicer 1350 Series 27 Spline
 Powerglide, T -350, 700R, 200R and
 4L60 T ransmission Slip Yoke
 Spicer 1350 27 spline Slip Yoke.
 Fits Powergli ...
-"," : Slip Yoke
-"," : EV West
-",: 4.00,: 4.00
-DrivetrainComponents,"  Tesla 930 Stub Axle Conversion Kit
+",Spicer 1350 Series 27 Spline," : EV West
+",: 4.00,$88.00
+DrivetrainComponents," EVW -MS-
+930C
+","  Tesla 930 Stub Axle Conversion Kit
 for Porsche, VW and Others
 Our EV West 930 CV Stub
 Adapter kit allows for eas ...
-"," : EVW -MS-
-930C
-"," : EV West
-",: 15.00,: 15.00
-DrivetrainComponents,"  Tesla Replacement Stub Axle Clips
+",Tesla 930 Stub Axle Conversion Kit," : EV West
+",: 15.00,"$1,450.00"
+DrivetrainComponents," TESLA-
+CLIP
+","  Tesla Replacement Stub Axle Clips
 for 930 CV Flanges
 The EV West Tesla axle clips are
 great for ensurin ...
-"," : TESLA-
-CLIP
-"," : Tesla
-",: 1.00,: 1.00
+",Tesla Replacement Stub Axle Clips," : Tesla
+",: 1.00,$8.00

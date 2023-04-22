@@ -1,94 +1,94 @@
-category,model,model_name,manufacturer,weight,price
-Charging_Accessories,"  EVCC 3.0 - CAN Bus Charger
+category,model,model_description,model_name,manufacturer,weight,price
+Charging_Accessories," TS-EVCC3
+","  EVCC 3.0 - CAN Bus Charger
 Controller by Dilithium Design and
 Thunderstruck
 The Thunderstruck EVCC (EV
 charge controller) crea ...
-"," : TS-EVCC3
-"," : Dilithium
+",EVCC 3.0 - CAN Bus Charger," : Dilithium
 BMS
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 32A  Receptacle (Socket
+",: 1.00,$320.00
+Charging_Accessories," J1772R-V2
+","  J1772 32A  Receptacle (Socket
 Only) V er. 2 - Self Opening
 This J1772 car-side receptacle
 comes ready to asse ...
-"," : J1772R-V2
-"," : Chennic
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 32A  Receptical Replacement
+",J1772 32A  Receptacle (Socket," : Chennic
+",: 1.00,$89.00
+Charging_Accessories," J1772 Pins
+","  J1772 32A  Receptical Replacement
 Pins
 These replacement pins can be a
 real life saver if ...
-"," : J1772 Pins
-"," : EV West
-",: 0.20,: 0.20
-Charging_Accessories,"  J1772 Active V ehicle Control
+",J1772 32A  Receptical Replacement," : EV West
+",: 0.20,$38.00
+Charging_Accessories," J1772
+Contro
+","  J1772 Active V ehicle Control
 Module AVC2 - For Public Charge
 Stations
 Due to the low quantity of stock of
 this item we ...
-"," : J1772
-Contro
-"," : Modular EV
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 and T esla Charge Inlet
+",J1772 Active V ehicle Control," : Modular EV
+",: 1.00,$45.00
+Charging_Accessories," J-Bracket
+","  J1772 and T esla Charge Inlet
 Universal Mounting Bracket -
 Aluminum
 This is an aluminum bracket for
 mounting our Tesla ...
-"," : J-Bracket
-"," : EV West
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 Inlet Mounting Plate for
+",J1772 and T esla Charge Inlet," : EV West
+",: 1.00,$19.00
+Charging_Accessories," Charge
+Plate
+","  J1772 Inlet Mounting Plate for
 Karmann Ghia Charging Port
 We developed these simple
 aluminum mounting plates ...
-"," : Charge
-Plate
-"," : EV West
-",: 0.50,: 0.50
-Charging_Accessories,"  J1772 Replacement 32A  Plug & 20'
+",J1772 Inlet Mounting Plate for," : EV West
+",: 0.50,$18.88
+Charging_Accessories," J1772-
+CRD32A
+","  J1772 Replacement 32A  Plug & 20'
 Cord
 Set up your own home custom
 charging station, buil ...
-"," : J1772-
-CRD32A
-"," : EV West
-",: 11.00,: 11.00
-Charging_Accessories,"  JDapter Stub - T esla Charge
+",J1772 Replacement 32A  Plug & 20'," : EV West
+",: 11.00,$99.00
+Charging_Accessories," JDaptor
+Stub
+","  JDapter Stub - T esla Charge
 Station Adaptor - Use T esla
 Charging Stations
 This is an adaptor that allows a
 Telsa AC powering ...
-"," : JDaptor
-Stub
-"," : Quick
+",JDapter Stub - T esla Charge," : Quick
 Charge
 Power
-",: 2.00,: 2.00
-Charging_Accessories,"  MCU Master Control Unit - CAN
+",: 2.00,$389.00
+Charging_Accessories," TS-MCU
+","  MCU Master Control Unit - CAN
 Bus BMS and Charger Controller
 by Dilithium Design and
 Thunderstruck
 The Dilithium/Thunderstruck MCU
 (Master Control Un ...
-"," : TS-MCU
-"," : Dilithium
+",MCU Master Control Unit - CAN," : Dilithium
 BMS
-",: 1.00,: 1.00
-Charging_Accessories,"  Mennekes European 32A
+",: 1.00,$420.00
+Charging_Accessories," MENNEKS
+","  Mennekes European 32A
 Receptacle W ith Cover (EVSE Side
 - Female Pins)
 This European standard
 Mennekes EVSE-side receptac ...
-"," : MENNEKS
-"," : EV West
-",: 1.50,: 1.50
-Charging_Accessories,"  Mennekes European 32A
+",Mennekes European 32A," : EV West
+",: 1.50,$119.00
+Charging_Accessories," MEN-REC
+","  Mennekes European 32A
 Receptacle W ith Cover (V ehicle
 Side - Male Pins Side)
 This European standard
 Mennekes Vehicle-side recep ...
-"," : MEN-REC
-"," : EV West
-",: 1.50,: 1.50
+",Mennekes European 32A," : EV West
+",: 1.50,$119.00

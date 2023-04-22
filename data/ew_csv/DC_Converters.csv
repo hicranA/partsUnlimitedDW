@@ -1,22 +1,22 @@
-category,model,model_name,manufacturer,weight,price
-DC_Converters,"  DC/DC Converter 1000W Isolated
+category,model,model_description,model_name,manufacturer,weight,price
+DC_Converters," 1KWDC144
+","  DC/DC Converter 1000W Isolated
 100-200 V olts
 The High Efficiency Series
 DC/DC Converter is spec ...
-"," : 1KWDC144
-"," : Elcon
-",: 6.00,: 6.00
-DC_Converters,"  DC/DC Converter 1000W Isolated
+",DC/DC Converter 1000W Isolated," : Elcon
+",: 6.00,$549.00
+DC_Converters," 1KWDC320
+","  DC/DC Converter 1000W Isolated
 220-450 V olts
 The High Efficiency Series
 DC/DC Converter is spec ...
-"," : 1KWDC320
-"," : Elcon
-",: 6.00,: 6.00
-DC_Converters,"  DC/DC Converter 1000W Isolated
+",DC/DC Converter 1000W Isolated," : Elcon
+",: 6.00,$549.00
+DC_Converters," 1KWDC108
+","  DC/DC Converter 1000W Isolated
 74-162 V olts
 The High Efficiency Series
 DC/DC Converter is spec ...
-"," : 1KWDC108
-"," : Elcon
-",: 6.00,: 6.00
+",DC/DC Converter 1000W Isolated," : Elcon
+",: 6.00,$549.00

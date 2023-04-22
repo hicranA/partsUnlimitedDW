@@ -1,1373 +1,1355 @@
-category,model,model_name,manufacturer,weight,price
-Batteries,"  Lithium 2170 21700 Battery Cell
+category,model,model_description,model_name,manufacturer,weight,price
+Batteries," INR2170M50L T
+","  Lithium 2170 21700 Battery Cell
 5000mAh 14.4A  INR2170 M50 L T -
 By The Case
 We are pleased to offer the much
 sought after Lith ...
-"," : INR2170M50L T
-"," : EV West
-",: 0.00,: 0.00
-Batteries,"  Lithium Ion Battery - 60.8V , 2.6kWh
+",Lithium 2170 21700 Battery Cell," : EV West
+",: 0.00,$799.00
+Batteries," BAT-2.6-
+16S
+","  Lithium Ion Battery - 60.8V , 2.6kWh
 These battery modules have
 excellent stability bas ...
-"," : BAT-2.6-
-16S
-"," :
-",: 38.00,: 38.00
-Batteries,"  Lithium Super Cells 1.6 kWh - JH3
+","Lithium Ion Battery - 60.8V , 2.6kWh"," :
+",: 38.00,$799.00
+Batteries," BAT-1.7-7S
+","  Lithium Super Cells 1.6 kWh - JH3
 63Ah 7S High Power Battery
 Module - For T esla Systems
 These are brand new, unused
 lithium JH3 64Ah batte ...
-"," : BAT-1.7-7S
-"," : EV West
-",: 20.00,: 20.00
-Batteries,"  Lithium Super Cells 3.2 kWh - JP3
+",Lithium Super Cells 1.6 kWh - JH3," : EV West
+",: 20.00,$499.00
+Batteries," BAT-3.4-
+7S2P
+","  Lithium Super Cells 3.2 kWh - JP3
 128Ah 2P7S High Power Battery
 Module - For T esla Systems
 These are brand new, unused
 lithium JP3 64Ah batte ...
-"," : BAT-3.4-
-7S2P
-"," :
-",: 40.00,: 40.00
-Batteries,"  Samsung INR 18650 25R Lithium
+",Lithium Super Cells 3.2 kWh - JP3," :
+",: 40.00,$879.00
+Batteries," INR25R
+","  Samsung INR 18650 25R Lithium
 Battery Cells - By The Case
 The Samsung INR-25R is a
 popular lithium-ion cell. ...
-"," : INR25R
-"," : Samsung
-",: 0.00,: 0.00
-Batteries,"  Samsung SDI 60Ah Lithium Ion
+",Samsung INR 18650 25R Lithium," : Samsung
+",: 0.00,$330.00
+Batteries," SM-SDI-60
+","  Samsung SDI 60Ah Lithium Ion
 Battery Cell
 This is a fantastic NMC prismatic
 cell from Samsun ...
-"," : SM-SDI-60
-"," : Samsung
-",: 5.00,: 5.00
-Batteries,"  Samsung SDI ESS Energy Storage
+",Samsung SDI 60Ah Lithium Ion," : Samsung
+",: 5.00,$59.00
+Batteries," ESS-3.5
+","  Samsung SDI ESS Energy Storage
 Battery 16S 60 V olt - New 3.5 kWh
 Rack Mount
 This Samsung SDI ESS 3.5
 backup battery is a brand ...
-"," : ESS-3.5
-"," : Samsung
-",: 110.00,: 110.00
-Batteries,"  Samsung SDI ESS Energy Storage
+",Samsung SDI ESS Energy Storage," : Samsung
+",: 110.00,$699.00
+Batteries," ESS-7.6
+","  Samsung SDI ESS Energy Storage
 Battery 22S 80 V olt - New 7.6kWh
 This Samsung SDI ESS 7.6
 backup battery is a brand ...
-"," : ESS-7.6
-"," : Samsung
-",: 140.00,: 140.00
-Batteries,  Tesla ," S Lithium Ion Battery
-18650 EV Module - 22.8 V olt, 5.3
-kWh
-These used 18650 Tesla battery
-modules from a 85kW ...
-"," : Tesla
-",: 55.00,: 55.00
-Batteries,"  $799.00$990.00Tesla Smart Lithium Ion Battery
+",Samsung SDI ESS Energy Storage," : Samsung
+",: 140.00,$999.00
+Batteries," Tesla MS
+",  Tesla ,Tesla," : Tesla
+",: 55.00,"$1,580.00"
+Batteries," 18650-3
+","  $799.00$990.00Tesla Smart Lithium Ion Battery
 18650 EV Module - 57 V olt, 3kWh
 limited quantity available. Please
 email sales@evw ...
-"," : 18650-3
-"," : Tesla
-",: 42.00,: 42.00
-BatteryEnclosuresAcc,"  MX150 Bulkhead and Connector -
+",$799.00$990.00Tesla Smart Lithium Ion Battery," : Tesla
+",: 42.00,$799.00
+BatteryEnclosuresAcc," EVW -
+MX150
+","  MX150 Bulkhead and Connector -
 Battery Box CAN Bus Plug Kit
 A bulkhead receptacle and
 matching connector paire ...
-"," : EVW -
-MX150
-"," : EV West
-",: 1.00,: 1.00
-BatteryEnclosuresAcc,"  Rincon Power HVBD4AXR - 400 A
+",MX150 Bulkhead and Connector -," : EV West
+",: 1.00,$19.00
+BatteryEnclosuresAcc," RP-HVBD
+","  Rincon Power HVBD4AXR - 400 A
 Continuous - 1000 V olt Max
 Hermetically Sealed Disconnect
 Switch
 Manual locking disconnect for
 your traction batter ...
-"," : RP-HVBD
-"," : Rincon
+",Rincon Power HVBD4AXR - 400 A," : Rincon
 Power
-",: 3.00,: 3.00
-BatteryEnclosuresAcc,"  VW Beetle Front Battery Box - '58-
+",: 3.00,$159.00
+BatteryEnclosuresAcc," EVW -FBB1
+","  VW Beetle Front Battery Box - '58-
 71
 Aluminum Front Battery Box
 Height: 6.625 inc ...
-"," : EVW -FBB1
-"," : EV West
-",: 20.00,: 20.00
-BatteryEnclosuresAcc,"  VW Beetle Rear Battery Box - '58-
+",VW Beetle Front Battery Box - '58-," : EV West
+",: 20.00,$999.00
+BatteryEnclosuresAcc," EVW -RBB1
+","  VW Beetle Rear Battery Box - '58-
 71
 Aluminum Rear Battery Box
 Height: 12.50 inch ...
-"," : EVW -RBB1
-"," : EV West
-",: 20.00,: 20.00
-Chargers,"  Elcon 3.3kW UF CAN Bus Charger
+",VW Beetle Rear Battery Box - '58-," : EV West
+",: 20.00,$999.00
+Chargers," UFC33-
+CAN
+","  Elcon 3.3kW UF CAN Bus Charger
 with EVCC
 The UFC3300 is an excellent low
 cost solution to h ...
-"," : UFC33-
-CAN
-"," : Elcon
-",: 19.00,: 19.00
-Chargers,"  Elcon PFC1500 Charger
+",Elcon 3.3kW UF CAN Bus Charger," : Elcon
+",: 19.00,"$1,199.00"
+Chargers," ELC1500
+","  Elcon PFC1500 Charger
 This item has been discontinued
 by the manufacture ...
-"," : ELC1500
-"," : Elcon
-",: 15.00,: 15.00
-Chargers,"  Manzanita Micro PFC 20-XM
+",Elcon PFC1500 Charger," : Elcon
+",: 15.00,$569.00
+Chargers," MM PFC20-
+XM
+","  Manzanita Micro PFC 20-XM
 Charger
 This product is no longer
 available through EV Wes ...
-"," : MM PFC20-
+",Manzanita Micro PFC 20-XM," : Manzanita
+",: 16.00,"$2,390.00"
+Chargers," MM PFC30-
 XM
-"," : Manzanita
-",: 16.00,: 16.00
-Chargers,"  Manzanita Micro PFC 30-XM
+","  Manzanita Micro PFC 30-XM
 Charger
 The PFC-30M is designed to
 charge any battery pack ...
-"," : MM PFC30-
+",Manzanita Micro PFC 30-XM," : Manzanita
+",: 17.20,"$3,320.00"
+Chargers," MM PFC40-
 XM
-"," : Manzanita
-",: 17.20,: 17.20
-Chargers,"  Manzanita Micro PFC 40-XM
+","  Manzanita Micro PFC 40-XM
 Charger
 The PFC-40M is designed to
 charge any battery pack ...
-"," : MM PFC40-
-XM
-"," : Manzanita
-",: 20.00,: 20.00
-Charging_Accessories,"  EVCC 3.0 - CAN Bus Charger
+",Manzanita Micro PFC 40-XM," : Manzanita
+",: 20.00,"$3,650.00"
+Charging_Accessories," TS-EVCC3
+","  EVCC 3.0 - CAN Bus Charger
 Controller by Dilithium Design and
 Thunderstruck
 The Thunderstruck EVCC (EV
 charge controller) crea ...
-"," : TS-EVCC3
-"," : Dilithium
+",EVCC 3.0 - CAN Bus Charger," : Dilithium
 BMS
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 32A  Receptacle (Socket
+",: 1.00,$320.00
+Charging_Accessories," J1772R-V2
+","  J1772 32A  Receptacle (Socket
 Only) V er. 2 - Self Opening
 This J1772 car-side receptacle
 comes ready to asse ...
-"," : J1772R-V2
-"," : Chennic
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 32A  Receptical Replacement
+",J1772 32A  Receptacle (Socket," : Chennic
+",: 1.00,$89.00
+Charging_Accessories," J1772 Pins
+","  J1772 32A  Receptical Replacement
 Pins
 These replacement pins can be a
 real life saver if ...
-"," : J1772 Pins
-"," : EV West
-",: 0.20,: 0.20
-Charging_Accessories,"  J1772 Active V ehicle Control
+",J1772 32A  Receptical Replacement," : EV West
+",: 0.20,$38.00
+Charging_Accessories," J1772
+Contro
+","  J1772 Active V ehicle Control
 Module AVC2 - For Public Charge
 Stations
 Due to the low quantity of stock of
 this item we ...
-"," : J1772
-Contro
-"," : Modular EV
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 and T esla Charge Inlet
+",J1772 Active V ehicle Control," : Modular EV
+",: 1.00,$45.00
+Charging_Accessories," J-Bracket
+","  J1772 and T esla Charge Inlet
 Universal Mounting Bracket -
 Aluminum
 This is an aluminum bracket for
 mounting our Tesla ...
-"," : J-Bracket
-"," : EV West
-",: 1.00,: 1.00
-Charging_Accessories,"  J1772 Inlet Mounting Plate for
+",J1772 and T esla Charge Inlet," : EV West
+",: 1.00,$19.00
+Charging_Accessories," Charge
+Plate
+","  J1772 Inlet Mounting Plate for
 Karmann Ghia Charging Port
 We developed these simple
 aluminum mounting plates ...
-"," : Charge
-Plate
-"," : EV West
-",: 0.50,: 0.50
-Charging_Accessories,"  J1772 Replacement 32A  Plug & 20'
+",J1772 Inlet Mounting Plate for," : EV West
+",: 0.50,$18.88
+Charging_Accessories," J1772-
+CRD32A
+","  J1772 Replacement 32A  Plug & 20'
 Cord
 Set up your own home custom
 charging station, buil ...
-"," : J1772-
-CRD32A
-"," : EV West
-",: 11.00,: 11.00
-Charging_Accessories,"  JDapter Stub - T esla Charge
+",J1772 Replacement 32A  Plug & 20'," : EV West
+",: 11.00,$99.00
+Charging_Accessories," JDaptor
+Stub
+","  JDapter Stub - T esla Charge
 Station Adaptor - Use T esla
 Charging Stations
 This is an adaptor that allows a
 Telsa AC powering ...
-"," : JDaptor
-Stub
-"," : Quick
+",JDapter Stub - T esla Charge," : Quick
 Charge
 Power
-",: 2.00,: 2.00
-Charging_Accessories,"  MCU Master Control Unit - CAN
+",: 2.00,$389.00
+Charging_Accessories," TS-MCU
+","  MCU Master Control Unit - CAN
 Bus BMS and Charger Controller
 by Dilithium Design and
 Thunderstruck
 The Dilithium/Thunderstruck MCU
 (Master Control Un ...
-"," : TS-MCU
-"," : Dilithium
+",MCU Master Control Unit - CAN," : Dilithium
 BMS
-",: 1.00,: 1.00
-Charging_Accessories,"  Mennekes European 32A
+",: 1.00,$420.00
+Charging_Accessories," MENNEKS
+","  Mennekes European 32A
 Receptacle W ith Cover (EVSE Side
 - Female Pins)
 This European standard
 Mennekes EVSE-side receptac ...
-"," : MENNEKS
-"," : EV West
-",: 1.50,: 1.50
-Charging_Accessories,"  Mennekes European 32A
+",Mennekes European 32A," : EV West
+",: 1.50,$119.00
+Charging_Accessories," MEN-REC
+","  Mennekes European 32A
 Receptacle W ith Cover (V ehicle
 Side - Male Pins Side)
 This European standard
 Mennekes Vehicle-side recep ...
-"," : MEN-REC
-"," : EV West
-",: 1.50,: 1.50
-Controller_Accessories,"  AC Motor 3 Phase W ire EV Motor
+",Mennekes European 32A," : EV West
+",: 1.50,$119.00
+Controller_Accessories,"
+","  AC Motor 3 Phase W ire EV Motor
 Cable Set - 2/0 Orange
 Prefabricated HPEVS AC50/51
 2/0 3 Phase Cable Set. ...
-"," :
-"," : EV West
-",: 3.00,: 3.00
-Controller_Accessories,"  Adjustable T emperature Fan &
+",AC Motor 3 Phase W ire EV Motor," : EV West
+",: 3.00,$74.95
+Controller_Accessories," TEMPSWITCH
+","  Adjustable T emperature Fan &
 Pump Switch
 This is an easy solution for an all
 in one thermos ...
-"," : TEMPSWITCH
-"," : EV West
-",: 1.00,: 1.00
-Controller_Accessories,  AEM T esla ," S/X Motor
-Controller Logic Board for Use
-with VCU200
-This product is on manufacture
-backorder until Fal ...
-"," : HPEVS
-",: 5.00,: 5.00
-Controller_Accessories,"  Curtis 1238-1239 Chill Plate Liquid
+",Adjustable T emperature Fan &," : EV West
+",: 1.00,$49.00
+Controller_Accessories," AEM-TSLA
+",  AEM T esla ,AEM T esla," : HPEVS
+",: 5.00,$999.00
+Controller_Accessories," Chill Plate
+","  Curtis 1238-1239 Chill Plate Liquid
 Cooling Kit
 Made from 6061 solid aluminum,
 this 5/8"" thick pla ...
-"," : Chill Plate
-"," : EV West
-",: 8.00,: 8.00
-Controller_Accessories,"  Curtis 1238-1239 Controller Mount
+",Curtis 1238-1239 Chill Plate Liquid," : EV West
+",: 8.00,$155.00
+Controller_Accessories," Controller M
+","  Curtis 1238-1239 Controller Mount
 The EV West Curtis Controller
 Mount is made of 3/1 ...
-"," : Controller M
-"," : EV West
-",: 5.00,: 5.00
-Controller_Accessories,"  Curtis Handheld AC Motor OEM
+",Curtis 1238-1239 Controller Mount," : EV West
+",: 5.00,$149.00
+Controller_Accessories," 1313-4401
+","  Curtis Handheld AC Motor OEM
 Level Programmer 1313-4401
 The Curtis 1313-4401 OEM level
 Handheld Programmer ...
-"," : 1313-4401
-"," : Curtis
-",: 4.00,: 4.00
-Controller_Accessories,"  Curtis PC Motor OEM Level
+",Curtis Handheld AC Motor OEM," : Curtis
+",: 4.00,$699.00
+Controller_Accessories," 1314
+","  Curtis PC Motor OEM Level
 Programmer 1314
 The Curtis 1314 PC based OEM
 level programmer is j ...
-"," : 1314
-"," : Curtis
-",: 1.00,: 1.00
-Controller_Accessories,"  EV W est Billet Aluminum Throttle
+",Curtis PC Motor OEM Level," : Curtis
+",: 1.00,$599.00
+Controller_Accessories," EVWThrottle
+","  EV W est Billet Aluminum Throttle
 Potentiometer
 Uses a high quality OEM throttle
 position sensor ( ...
-"," : EVWThrottle
-"," : EV West
-",: 3.00,: 3.00
-Controller_Accessories,"  NetGain/SME Hyper 9 AC-X120,
+",EV W est Billet Aluminum Throttle," : EV West
+",: 3.00,$179.00
+Controller_Accessories," EVW -
+H9CP-3
+","  NetGain/SME Hyper 9 AC-X120,
 AC-X144 Chill Plate for VW Adapter
 Plate
 Made from 6061 solid aluminum,
 this 5/8"" thick pla ...
-"," : EVW -
-H9CP-3
-"," : EV West
-",: 8.00,: 8.00
-Controller_Accessories,"  NetGain/SME Hyper 9 AC-X120,
+","NetGain/SME Hyper 9 AC-X120,"," : EV West
+",: 8.00,$145.00
+Controller_Accessories," EVW -H9CP
+","  NetGain/SME Hyper 9 AC-X120,
 AC-X144 Chill Plate Liquid Cooling
 Kit
 Made from 6061 solid aluminum,
 this 5/8"" thick pla ...
-"," : EVW -H9CP
-"," : EV West
-",: 8.00,: 8.00
-Controller_Accessories,"  Single Channel Opto-Isolator
+","NetGain/SME Hyper 9 AC-X120,"," : EV West
+",: 8.00,$135.00
+Controller_Accessories," Iso
+","  Single Channel Opto-Isolator
 Tachometer Module for Curtis 1238
 This single channel Opto-Isolator
 has been specifi ...
-"," : Iso
-"," : HPEVS
-",: 1.00,: 1.00
-Controller_Accessories,"  Subaru WRX STI Accelerator Pedal
+",Single Channel Opto-Isolator," : HPEVS
+",: 1.00,$58.00
+Controller_Accessories," WRX
+Throttle
+","  Subaru WRX STI Accelerator Pedal
 - Hall Effect W ith Plug
 These Standard OE Motor
 accelerator pedal sensors ...
-"," : WRX
-Throttle
-"," : EV West
-",: 2.00,: 2.00
-Controller_Accessories,"  Toyota Prius Throttle Pedal Mount
+",Subaru WRX STI Accelerator Pedal," : EV West
+",: 2.00,$119.00
+Controller_Accessories," bracket
+","  Toyota Prius Throttle Pedal Mount
 This bracket was designed to
 mount the Toyota Priu ...
-"," : bracket
-"," : EV West
-",: 2.00,: 2.00
-Controller_Accessories,"  Toyota Prius Throttle Pedal Plug
+",Toyota Prius Throttle Pedal Mount," : EV West
+",: 2.00,$29.89
+Controller_Accessories," Plug
+","  Toyota Prius Throttle Pedal Plug
 This plug fits the Toyota Prius
 Pedal (78120-47050 ...
-"," : Plug
-"," : EV West
-",: 1.00,: 1.00
-Controller_Accessories,"  Universal Ball and Socket for EV
+",Toyota Prius Throttle Pedal Plug," : EV West
+",: 1.00,$18.00
+Controller_Accessories," Ball and
+Soc
+","  Universal Ball and Socket for EV
 Throttle Control Lever - Hall Effect
 Throttle
 This is the best solution for
 adapting your existi ...
-"," : Ball and
-Soc
-"," : EV West
-",: 0.20,: 0.20
-Controllers,"  Cascadia Rinehart PM100DX/DZ
+",Universal Ball and Socket for EV," : EV West
+",: 0.20,$29.00
+Controllers," Controller
+","  Cascadia Rinehart PM100DX/DZ
 100KW AC Motor Controller
 This product is no longer
 available through EV Wes ...
-"," : Controller
-"," : Rinehart
+",Cascadia Rinehart PM100DX/DZ," : Rinehart
 Motion
 Systems
-",: 20.00,: 20.00
-Controllers,"  Cascadia Rinehart PM150DX/DZ
+",: 20.00,"$6,240.00"
+Controllers," Controller
+","  Cascadia Rinehart PM150DX/DZ
 150KW AC Motor Controller
 This product is no longer
 available through EV Wes ...
-"," : Controller
-"," : Rinehart
+",Cascadia Rinehart PM150DX/DZ," : Rinehart
 Motion
 Systems
-",: 25.00,: 25.00
-Controllers,"  EV Controls T2-C T esla Drive Unit
+",: 25.00,"$9,360.00"
+Controllers," EVC-T2-C
+","  EV Controls T2-C T esla Drive Unit
 Controller
 The T2C is a controller that
 allows you to install ...
-"," : EVC-T2-C
-"," : Tesla
-",: 3.00,: 3.00
-Controllers,"  HPEVS Curtis 1236e-5621 48V 550
+",EV Controls T2-C T esla Drive Unit," : Tesla
+",: 3.00,"$2,699.00"
+Controllers,"
+","  HPEVS Curtis 1236e-5621 48V 550
 AMP  Controller - Replaces 1238-
 5601
 Curtis 1236e-5621 AC controller
 that operates at 3 ...
-"," :
-"," : Curtis
-",: 9.00,: 9.00
-Controllers,"  HPEVS Curtis 1238e-6521 72V 550
+",HPEVS Curtis 1236e-5621 48V 550," : Curtis
+",: 9.00,"$1,088.00"
+Controllers,"
+","  HPEVS Curtis 1238e-6521 72V 550
 AMP  Controller
 Curtis 1238e-6521 AC controller
 that operates at 4 ...
-"," :
-"," : Curtis
-",: 20.00,: 20.00
-Controllers,"  HPEVS Curtis 1239e-8521 144V 500
+",HPEVS Curtis 1238e-6521 72V 550," : Curtis
+",: 20.00,"$1,535.00"
+Controllers," Curtis 1239
+","  HPEVS Curtis 1239e-8521 144V 500
 AMP  Controller
 Curtis 1239-8501 AC controller
 that operates at 12 ...
-"," : Curtis 1239
-"," : Curtis
-",: 20.00,: 20.00
-Controllers,"  Manzanita Micro Zilla 1K Series DC
+",HPEVS Curtis 1239e-8521 144V 500," : Curtis
+",: 20.00,"$2,740.00"
+Controllers," Zilla 1K
+","  Manzanita Micro Zilla 1K Series DC
 Motor Controller
 This product is no longer
 available through EV Wes ...
-"," : Zilla 1K
-"," : Manzanita
-",: 20.00,: 20.00
-Controllers,"  Manzanita Micro Zilla 2K Series DC
+",Manzanita Micro Zilla 1K Series DC," : Manzanita
+",: 20.00,"$2,600.00"
+Controllers," Zilla 2K
+","  Manzanita Micro Zilla 2K Series DC
 Motor Controller
 This product is no longer
 available through EV Wes ...
-"," : Zilla 2K
-"," : Manzanita
-",: 35.00,: 35.00
-Controllers,"  NetGain SME AC-X1 Inverter -
+",Manzanita Micro Zilla 2K Series DC," : Manzanita
+",: 35.00,"$4,600.00"
+Controllers," NGM-
+ACX120
+","  NetGain SME AC-X1 Inverter -
 SRIPM Motor Inverter for Hyper9
 Systems
 Equipped with the latest
 technology in power elect ...
-"," : NGM-
-ACX120
-"," : NetGain
+",NetGain SME AC-X1 Inverter -," : NetGain
 Motors
-",: 11.00,: 11.00
-DC_Converters,"  DC/DC Converter 1000W Isolated
+",: 11.00,"$2,050.00"
+DC_Converters," 1KWDC144
+","  DC/DC Converter 1000W Isolated
 100-200 V olts
 The High Efficiency Series
 DC/DC Converter is spec ...
-"," : 1KWDC144
-"," : Elcon
-",: 6.00,: 6.00
-DC_Converters,"  DC/DC Converter 1000W Isolated
+",DC/DC Converter 1000W Isolated," : Elcon
+",: 6.00,$549.00
+DC_Converters," 1KWDC320
+","  DC/DC Converter 1000W Isolated
 220-450 V olts
 The High Efficiency Series
 DC/DC Converter is spec ...
-"," : 1KWDC320
-"," : Elcon
-",: 6.00,: 6.00
-DC_Converters,"  DC/DC Converter 1000W Isolated
+",DC/DC Converter 1000W Isolated," : Elcon
+",: 6.00,$549.00
+DC_Converters," 1KWDC108
+","  DC/DC Converter 1000W Isolated
 74-162 V olts
 The High Efficiency Series
 DC/DC Converter is spec ...
-"," : 1KWDC108
-"," : Elcon
-",: 6.00,: 6.00
-DrivetrainComponents,"  Remanufactured 2 Speed
+",DC/DC Converter 1000W Isolated," : Elcon
+",: 6.00,$549.00
+DrivetrainComponents," RemT rans
+","  Remanufactured 2 Speed
 VW/Porsche T ransmission for EV
 Motors
 These remanufactured
 transmissions are designed an ...
-"," : RemT rans
-"," : EV West
-",: 125.00,: 125.00
-DrivetrainComponents,"  Spicer 1310 Series 1-1/8 inch Yoke
+",Remanufactured 2 Speed," : EV West
+",: 125.00,"$1,999.00"
+DrivetrainComponents," SR-1310
+","  Spicer 1310 Series 1-1/8 inch Yoke
 With 1/4 inch Keyway
 This Spicer 1310 Series Yoke will
 fit any 1-1/8 in ...
-"," : SR-1310
-"," : EV West
-",: 2.00,: 2.00
-DrivetrainComponents,"  Spicer 1350 Series 1-1/8 inch Yoke
+",Spicer 1310 Series 1-1/8 inch Yoke," : EV West
+",: 2.00,$142.00
+DrivetrainComponents," SR-1350
+","  Spicer 1350 Series 1-1/8 inch Yoke
 With 1/4 inch Keyway
 This Spicer 1350 Series Yoke will
 fit any 1-1/8 in ...
-"," : SR-1350
-"," : EV West
-",: 2.00,: 2.00
-DrivetrainComponents,"  Spicer 1350 Series 27 Spline
+",Spicer 1350 Series 1-1/8 inch Yoke," : EV West
+",: 2.00,$152.00
+DrivetrainComponents," Slip Yoke
+","  Spicer 1350 Series 27 Spline
 Powerglide, T -350, 700R, 200R and
 4L60 T ransmission Slip Yoke
 Spicer 1350 27 spline Slip Yoke.
 Fits Powergli ...
-"," : Slip Yoke
-"," : EV West
-",: 4.00,: 4.00
-DrivetrainComponents,"  Tesla 930 Stub Axle Conversion Kit
+",Spicer 1350 Series 27 Spline," : EV West
+",: 4.00,$88.00
+DrivetrainComponents," EVW -MS-
+930C
+","  Tesla 930 Stub Axle Conversion Kit
 for Porsche, VW and Others
 Our EV West 930 CV Stub
 Adapter kit allows for eas ...
-"," : EVW -MS-
-930C
-"," : EV West
-",: 15.00,: 15.00
-DrivetrainComponents,"  Tesla Replacement Stub Axle Clips
+",Tesla 930 Stub Axle Conversion Kit," : EV West
+",: 15.00,"$1,450.00"
+DrivetrainComponents," TESLA-
+CLIP
+","  Tesla Replacement Stub Axle Clips
 for 930 CV Flanges
 The EV West Tesla axle clips are
 great for ensurin ...
-"," : TESLA-
-CLIP
-"," : Tesla
-",: 1.00,: 1.00
-EV_Conversion_Kits,"  EV T rainer Cart - Fully Assembled
+",Tesla Replacement Stub Axle Clips," : Tesla
+",: 1.00,$8.00
+EV_Conversion_Kits," EVT-CAR T
+","  EV T rainer Cart - Fully Assembled
 and Running - AC50 or Hyper9
 The EV Trainer cart is a fully
 assembled and fully ...
-"," : EVT-CAR T
-"," : EV West
-",: 340.00,: 340.00
-EV_Conversion_Kits,"  Karmann Ghia EV Conversion Kit,
+",EV T rainer Cart - Fully Assembled," : EV West
+",: 340.00,"$32,995.00"
+EV_Conversion_Kits," EVW -GHIA-
+KIT
+","  Karmann Ghia EV Conversion Kit,
 AC Motor , Regen Braking, 1955-
 1974
 The EV West VW Karmann Ghia
 Super Beetle Kit is ve ...
-"," : EVW -GHIA-
-KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 356 Speedster EV
+","Karmann Ghia EV Conversion Kit,"," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," Porsche
+356
+","  Porsche 356 Speedster EV
 Conversion Kit, Regen Brakes, AC
 Motor , All Years
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-356
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 91 1 EV Conversion Kit,
+",Porsche 356 Speedster EV," : EV West
+",: 380.00,"$8,734.00"
+EV_Conversion_Kits," Porsche
+911
+","  Porsche 91 1 EV Conversion Kit,
 Regen Brakes, AC Motor 1965-1986
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-911
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 912 EV Conversion Kit,
+","Porsche 91 1 EV Conversion Kit,"," : EV West
+",: 380.00,"$11,594.00"
+EV_Conversion_Kits," Porsche
+912
+","  Porsche 912 EV Conversion Kit,
 Regen Brakes, AC Motor 1965-
 1969, 1976
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-912
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Porsche 914 EV Conversion Kit,
+","Porsche 912 EV Conversion Kit,"," : EV West
+",: 380.00,"$11,594.00"
+EV_Conversion_Kits," Porsche
+914
+","  Porsche 914 EV Conversion Kit,
 Regen Brakes, AC Motor 1969-1976
 The EV West Air Cooled Porsche
 Starter Kit is perf ...
-"," : Porsche
-914
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Universal NetGain Hyper 9 120V
+","Porsche 914 EV Conversion Kit,"," : EV West
+",: 380.00,"$8,734.00EV CONVERSION KITS"
+EV_Conversion_Kits," EVW -H9-
+UNV
+","  Universal NetGain Hyper 9 120V
 EV Conversion Package - Motor ,
 Inverter , Throttle, Instrument, Chill
 Plate
 The EV West ""Universal"" Starter
 Kit is perfect for ...
-"," : EVW -H9-
-UNV
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen Super Beetle EV
+",Universal NetGain Hyper 9 120V," : EV West
+",: 380.00,"$5,977.00"
+EV_Conversion_Kits," EVW -SB-
+KIT
+","  Volkswagen Super Beetle EV
 Conversion Kit Complete, Regen
 Brakes 1971-1979
 The EV West VW Super Beetle
 Kit is very unique in ...
-"," : EVW -SB-
+",Volkswagen Super Beetle EV," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," EVW -BTL-
 KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Beetle/Bug EV
+","  Volkswagen VW Beetle/Bug EV
 Conversion Complete Kit, Regen
 Brakes, Battery Packs 1956-1977
 The EV West VW Super Beetle
 Kit is very unique in ...
-"," : EVW -BTL-
+",Volkswagen VW Beetle/Bug EV," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," EVW -T2-
 KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Bus, T ype 2,
+","  Volkswagen VW Bus, T ype 2,
 Samba EV Conversion Kit, Regen
 Brakes, AC Motor 1950-1979
 The EV West Air Cooled
 Volkswagen Type 2 Kit is ve ...
-"," : EVW -T2-
-KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Notchback EV
+","Volkswagen VW Bus, T ype 2,"," : EV West
+",: 380.00,"$21,098.64"
+EV_Conversion_Kits," EVW -
+NTCH-KIT
+","  Volkswagen VW Notchback EV
 Conversion Kit, AC Motor , Regen
 Braking, T ype 3 1961-1973
 The EV West VW Type 3
 Notchback Kit is very unique ...
-"," : EVW -
-NTCH-KIT
-"," : EV West
-",: 380.00,: 380.00
-EV_Conversion_Kits,"  Volkswagen VW Thing EV
+",Volkswagen VW Notchback EV," : EV West
+",: 380.00,"$19,278.64"
+EV_Conversion_Kits," EVW -
+THNG-KIT
+","  Volkswagen VW Thing EV
 Conversion Kit, AC Motor , Regen
 Braking, 1968-1980
 The EV West VW Thing Kit is
 very unique in the fac ...
-"," : EVW -
-THNG-KIT
-"," : EV West
-",: 380.00,: 380.00
-Hose_Fittings,"  1/2 NPT Cable Grip Gland Nut
+",Volkswagen VW Thing EV," : EV West
+",: 380.00,"$19,278.64"
+Hose_Fittings," Cable Grip
+","  1/2 NPT Cable Grip Gland Nut
 These 1/2"" NPT accommodates
 0.197 - 0.394"" (5 - 10 ...
-"," : Cable Grip
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  1/4 Inch MP  Elbow to Male AN -6
+",1/2 NPT Cable Grip Gland Nut," : EV West
+",: 0.10,$4.38
+Hose_Fittings," Fitting
+","  1/4 Inch MP  Elbow to Male AN -6
 Fitting
 1/4 inch Male Pipe Elbow to Male
 AN -6, fittings a ...
-"," : Fitting
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  1/4 Inch MP  to Male AN -6 Fitting
+",1/4 Inch MP  Elbow to Male AN -6," : EV West
+",: 0.10,$6.84
+Hose_Fittings," Fitting
+","  1/4 Inch MP  to Male AN -6 Fitting
 1/4 inch Male Pipe to Male AN -6,
 fittings are mad ...
-"," : Fitting
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  1/4 NPT Cable Grip Gland Nut
+",1/4 Inch MP  to Male AN -6 Fitting," : EV West
+",: 0.10,$2.89
+Hose_Fittings," Cable Grip
+","  1/4 NPT Cable Grip Gland Nut
 These 1/4"" NPT accommodates
 wire diameter of appro ...
-"," : Cable Grip
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  1/8 Inch MP  Elbow to Male AN -6
+",1/4 NPT Cable Grip Gland Nut," : EV West
+",: 0.10,$3.38
+Hose_Fittings," Fitting
+","  1/8 Inch MP  Elbow to Male AN -6
 Fitting
 1/8 Inch Male Pipe Elbow to Male
 AN -6, fittings a ...
-"," : Fitting
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  1/8 Inch MP  to Male AN -6 Fitting
+",1/8 Inch MP  Elbow to Male AN -6," : EV West
+",: 0.10,$6.84
+Hose_Fittings," Fitting
+","  1/8 Inch MP  to Male AN -6 Fitting
 1/8 inch Male Pipe to Male AN -6,
 fittings are mad ...
-"," : Fitting
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  3/4 NPT Cable Grip Gland Nut
+",1/8 Inch MP  to Male AN -6 Fitting," : EV West
+",: 0.10,$2.89HOSE & FITTINGS
+Hose_Fittings," Cable Grip
+","  3/4 NPT Cable Grip Gland Nut
 These waterproofing black nylon
 cable grip gland n ...
-"," : Cable Grip
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  3/8 NPT Cable Grip Gland Nut
+",3/4 NPT Cable Grip Gland Nut," : EV West
+",: 0.10,$4.88
+Hose_Fittings," Cable Grip
+","  3/8 NPT Cable Grip Gland Nut
 These 3/8"" NPT accommodates
 0.197 - 0.394"" (5 - 10 ...
-"," : Cable Grip
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  AN -6 Swivel Hose End
+",3/8 NPT Cable Grip Gland Nut," : EV West
+",: 0.10,$3.88
+Hose_Fittings," Fitting
+","  AN -6 Swivel Hose End
 Field Changeable AN -6 hose end
 swivel, fittings a ...
-"," : Fitting
-"," : EV West
-",: 0.10,: 0.10
-Hose_Fittings,"  Cloth Braided Rubber Hose AN -6
+",AN -6 Swivel Hose End," : EV West
+",: 0.10,$5.60
+Hose_Fittings," Hose
+","  Cloth Braided Rubber Hose AN -6
 This hose is designed for use with
 gas, oil, diese ...
-"," : Hose
-"," : EV West
-",: 0.10,: 0.10
-Instrumentation,"  1000 Amp 50 MV Shunt
-These Deltec shunts are known
-for being one of the ...
-"," : 1000a
+",Cloth Braided Rubber Hose AN -6," : EV West
+",: 0.10,$6.90
+Instrumentation," 1000a
 Shunt
-"," : Deltec
-",: 3.00,: 3.00
-Instrumentation,"  500 Amp 50 MV Shunt
+","  1000 Amp 50 MV Shunt
 These Deltec shunts are known
 for being one of the ...
-"," : 500a Shunt
-"," : Deltec
-",: 2.00,: 2.00
-Instrumentation,"  600 Amp 50 MV Shunt
+",1000 Amp 50 MV Shunt," : Deltec
+",: 3.00,$67.00
+Instrumentation," 500a Shunt
+","  500 Amp 50 MV Shunt
 These Deltec shunts are known
 for being one of the ...
-"," : 600a Shunt
-"," : Deltec
-",: 2.00,: 2.00
-Instrumentation,"  AEM CD5 Carbon Flat Panel CAN
+",500 Amp 50 MV Shunt," : Deltec
+",: 2.00,$38.00
+Instrumentation," 600a Shunt
+","  600 Amp 50 MV Shunt
+These Deltec shunts are known
+for being one of the ...
+",600 Amp 50 MV Shunt," : Deltec
+",: 2.00,$47.00
+Instrumentation," CD5-F
+","  AEM CD5 Carbon Flat Panel CAN
 Bus Display
 CD-5F (Flat Panel) Carbon Digital
 Dash Displays fe ...
-"," : CD5-F
-"," : AEM
-",: 3.00,: 3.00
-Instrumentation,"  AEM CD7 Carbon Flat Panel CAN
+",AEM CD5 Carbon Flat Panel CAN," : AEM
+",: 3.00,$989.00
+Instrumentation," CD7-F
+","  AEM CD7 Carbon Flat Panel CAN
 Bus Display
 CD-7F (Flat Panel) Carbon Digital
 Dash Displays fe ...
-"," : CD7-F
-"," : AEM
-",: 3.00,: 3.00
-Instrumentation,"  CAN Bus Shunt IVT -S 1000A  for
+",AEM CD7 Carbon Flat Panel CAN," : AEM
+",: 3.00,"$1,399.00"
+Instrumentation," CAN-
+SHUNT
+","  CAN Bus Shunt IVT -S 1000A  for
 Digital Instrumentation by ISA
 Scale Isabellenhutte
 The IVT-S intelligent current and
 voltage measurem ...
-"," : CAN-
-SHUNT
-"," :
-",: 1.00,: 1.00
-Instrumentation,"  EV W est CAN Bus T achometer
+",CAN Bus Shunt IVT -S 1000A  for," :
+",: 1.00,$349.00
+Instrumentation," EVW -
+CBTH9
+","  EV W est CAN Bus T achometer
 Output Adapter for Hyper9 Drive
 Systems
 The EV West CAN Bus
 Tachometer adapter will allow ...
-"," : EVW -
-CBTH9
-"," : EV West
-",: 1.00,: 1.00
-Instrumentation,"  Single Gauge Pod
+",EV W est CAN Bus T achometer," : EV West
+",: 1.00,$149.00
+Instrumentation," GaugePod
+","  Single Gauge Pod
 This Single Gauge Pod is a
 perfect fit for the Cur ...
-"," : GaugePod
-"," :
-",: 1.00,: 1.00
-Instrumentation,"  TBS 5:1 Pre-scaler
+",Single Gauge Pod," :
+",: 1.00,$9.99
+Instrumentation," 5:1 Pre-scal
+","  TBS 5:1 Pre-scaler
 Great pre-scaler to give your
 Xantrex LinkPro ...
-"," : 5:1 Pre-scal
-"," : TBS
+",TBS 5:1 Pre-scaler," : TBS
 Electronics
-",: 1.00,: 1.00
-Instrumentation,"  TBS Expert Pro Battery Monitor -
+",: 1.00,$95.00
+Instrumentation," TBS Expert
+P
+","  TBS Expert Pro Battery Monitor -
 For Lithium Packs up to 350V
 The TBS Expert Pro Battery
 Monitor can measure cur ...
-"," : TBS Expert
-P
-"," : TBS
+",TBS Expert Pro Battery Monitor -," : TBS
 Electronics
-",: 1.00,: 1.00
-Miscellaneous,"  1500W High V oltage Heater
+",: 1.00,$269.00
+Miscellaneous," Heater
+","  1500W High V oltage Heater
 Element
 1500W element can run on
 traction pack voltages fr ...
-"," : Heater
-"," : Canadian EV
-",: 3.00,: 3.00
-Miscellaneous,"  175 Amp Anderson SB175
+",1500W High V oltage Heater," : Canadian EV
+",: 3.00,$199.00
+Miscellaneous," SB175
+Cover
+","  175 Amp Anderson SB175
 Connector Cover
 This cover is for the Anderson
 175 Amp multipole p ...
-"," : SB175
-Cover
-"," :
-",: 0.50,: 0.50
-Miscellaneous,"  50 Amp Anderson SB50 Connector
+",175 Amp Anderson SB175," :
+",: 0.50,$8.00
+Miscellaneous," SB50 Cover
+","  50 Amp Anderson SB50 Connector
 Cover
 This cover is for the Anderson 50
 Amp multipole po ...
-"," : SB50 Cover
-"," :
-",: 0.50,: 0.50
-Miscellaneous,"  AEM Electronics VCU 200
+",50 Amp Anderson SB50 Connector," :
+",: 0.50,$6.00
+Miscellaneous," AEM-
+VCU200
+","  AEM Electronics VCU 200
 Programmable Electric V ehicle
 Control Unit
 AEM EV Vehicle Control Units
 (VCUs) are the missin ...
-"," : AEM-
-VCU200
-"," : AEM
-",: 4.00,: 4.00
-Miscellaneous,"  Brake V acuum Reservoir Canister -
+",AEM Electronics VCU 200," : AEM
+",: 4.00,"$1,598.00"
+Miscellaneous," VAC-RES-
+PL
+","  Brake V acuum Reservoir Canister -
 Plastic
 This is a common reservoir used
 to hold vacuum wit ...
-"," : VAC-RES-
-PL
-"," : MSD Ignition
-",: 1.00,: 1.00
-Miscellaneous,"  CVR V acuum Pump VP555 - EV
+",Brake V acuum Reservoir Canister -," : MSD Ignition
+",: 1.00,$19.99
+Miscellaneous," Vac Pump
+CVR
+","  CVR V acuum Pump VP555 - EV
 Brake Booster
 Unfortunately we are no longer
 stocking this produ ...
-"," : Vac Pump
-CVR
-"," :
-",: 9.00,: 9.00
-Miscellaneous,"  Danger High V oltage W arning
+",CVR V acuum Pump VP555 - EV," :
+",: 9.00,$299.00
+Miscellaneous," HVSTICK-
+LG
+","  Danger High V oltage W arning
 Sticker - Large - 5 x 3
 High Voltage sticker for contactor
 boxes, battery ...
-"," : HVSTICK-
-LG
-"," : EV West
-",: 0.10,: 0.10
-Miscellaneous,"  Danger High V oltage W arning
+",Danger High V oltage W arning," : EV West
+",: 0.10,$4.99
+Miscellaneous," HVSTICK-
+SM
+","  Danger High V oltage W arning
 Sticker - Small - 2.5 x 1.5
 High Voltage sticker for contactor
 boxes, battery ...
-"," : HVSTICK-
-SM
-"," : EV West
-",: 0.10,: 0.10
-Miscellaneous,"  Dilithium BMS Controller
+",Danger High V oltage W arning," : EV West
+",: 0.10,$3.99
+Miscellaneous," TS-BMSM
+","  Dilithium BMS Controller
 Designed to be used in electric
 vehicle applicatio ...
-"," : TS-BMSM
-"," :
-",: 1.50,: 1.50
-Miscellaneous,"  Dilithium BMS Harness T ester
+",Dilithium BMS Controller," :
+",: 1.50,$450.00
+Miscellaneous," TS-BMST
+","  Dilithium BMS Harness T ester
 The BMS harness tester tests the
 Dilithium BMS wir ...
-"," : TS-BMST
-"," :
-",: 1.00,: 1.00
-Miscellaneous,"  Dilithium BMS Satellite
+",Dilithium BMS Harness T ester," :
+",: 1.00,$5.00
+Miscellaneous," TS-BMSS
+","  Dilithium BMS Satellite
 Each BMS Satellite allows
 monitoring of up to 24 m ...
-"," : TS-BMSS
-"," :
-",: 1.50,: 1.50
-Miscellaneous,"  Electric Power Steering Unit for
+",Dilithium BMS Satellite," :
+",: 1.50,$275.00
+Miscellaneous," PSU
+","  Electric Power Steering Unit for
 Electric V ehicles
 This power steering unit is an
 electrically-driven ...
-"," : PSU
-"," :
-",: 17.00,: 17.00
-Miscellaneous,"  EV Pedestrian T rolly Bell - Horn
+",Electric Power Steering Unit for," :
+",: 17.00,$749.00
+Miscellaneous," PEDBELL
+","  EV Pedestrian T rolly Bell - Horn
 Alternative
 We got enough requests for a
 pedestrian horn for t ...
-"," : PEDBELL
-"," : EV West
-",: 1.00,: 1.00
-Miscellaneous,"  High V oltage Universal Heater Kit
+",EV Pedestrian T rolly Bell - Horn," : EV West
+",: 1.00,$48.00
+Miscellaneous," Heater
+","  High V oltage Universal Heater Kit
 Heater can run on traction pack
 voltages from 36-3 ...
-"," : Heater
-"," : Canadian EV
-",: 5.00,: 5.00
-Miscellaneous,"  J1772 Inlet Mounting Plate for
+",High V oltage Universal Heater Kit," : Canadian EV
+",: 5.00,$899.00
+Miscellaneous," Charge
+Plate
+","  J1772 Inlet Mounting Plate for
 Charging Receptacle
 We developed these simple
 aluminum mounting plates ...
-"," : Charge
-Plate
-"," : EV West
-",: 0.50,: 0.50
-Miscellaneous,"  Lithium 16S Battery Module BMS
+",J1772 Inlet Mounting Plate for," : EV West
+",: 0.50,$18.88
+Miscellaneous," 2.6-16S-
+PCB
+","  Lithium 16S Battery Module BMS
 PCB Parallel Connection Boards
 These EV West PCB boards will
 simplify the wiring ...
-"," : 2.6-16S-
-PCB
-"," : EV West
-",: 1.00,: 1.00
-Miscellaneous,"  Spicer 1350 Series 27 Spline
+",Lithium 16S Battery Module BMS," : EV West
+",: 1.00,$44.00
+Miscellaneous," Slip Yoke
+","  Spicer 1350 Series 27 Spline
 Powerglide, T -350, 700R, 200R and
 4L60 T ransmission Slip Yoke
 Spicer 1350 27 spline Slip Yoke.
 Fits Powergli ...
-"," : Slip Yoke
-"," : EV West
-",: 4.00,: 4.00
-Miscellaneous,"  SSBC V acuum Pump Kit - EV
+",Spicer 1350 Series 27 Spline," : EV West
+",: 4.00,$88.00
+Miscellaneous," Vac Pump
+","  SSBC V acuum Pump Kit - EV
 Brake Booster
 This SSBC electric vacuum pump
 is the perfect solu ...
-"," : Vac Pump
-"," : SSBC
-",: 9.00,: 9.00
-Miscellaneous,  Tesla ," S/X Battery Module
-BMS Connectivity and Protection
-PCB Boards
-These EV West PCB boards will
-simplify the wiring ...
-"," : EV West
-",: 1.00,: 1.00
-Miscellaneous,"  Universal Starter Cover Plate - Fits
+",SSBC V acuum Pump Kit - EV," : SSBC
+",: 9.00,$288.00
+Miscellaneous," TESLA-BM-
+PCB
+",  Tesla ,Tesla," : EV West
+",: 1.00,$54.00
+Miscellaneous," Starter
+Cove
+","  Universal Starter Cover Plate - Fits
 VW, Porsche, and more
 Here is a small item that will really
 help give yo ...
-"," : Starter
-Cove
-"," : EV West
-",: 0.50,: 0.50
-Miscellaneous,"  Vibro Sound Deadening Mat
+",Universal Starter Cover Plate - Fits," : EV West
+",: 0.50,$16.88
+Miscellaneous," BMB3
+","  Vibro Sound Deadening Mat
 Vibro Damping Mats offer self-
 adhesive sound deade ...
-"," : BMB3
-"," : EV West
-",: 4.00,: 4.00
-Miscellaneous,"  VW Splitty Bus Charge Inlet Billet
+",Vibro Sound Deadening Mat," : EV West
+",: 4.00,$16.99
+Miscellaneous," EVW -T1CI
+","  VW Splitty Bus Charge Inlet Billet
 Aluminum Mounting Plate
 Ease the installation on your '52-
 '67 Volkswagen B ...
-"," : EVW -T1CI
-"," : EV West
-",: 3.00,: 3.00
-Miscellaneous,"  Wurth Copper T erminal Paste - CU
+",VW Splitty Bus Charge Inlet Billet," : EV West
+",: 3.00,$79.00
+Miscellaneous," CU800
+","  Wurth Copper T erminal Paste - CU
 800
 Wurth CU 800 is a high
 temperature and high pressu ...
-"," : CU800
-"," : EV West
-",: 0.50,: 0.50
-Motor_Accessories,"  Aircooled V olkswagen T esla Bolt-
+",Wurth Copper T erminal Paste - CU," : EV West
+",: 0.50,$7.25
+Motor_Accessories," VW-TSLA-
+SF
+","  Aircooled V olkswagen T esla Bolt-
 In Subframe
 The EV West VW Tesla
 subframe/motor mount is desig ...
-"," : VW-TSLA-
-SF
-"," : EV West
-",: 50.00,: 50.00
-Motor_Accessories,"  EV Motor Lift Ring For NetGain
+",Aircooled V olkswagen T esla Bolt-," : EV West
+",: 50.00,"$1,850.00"
+Motor_Accessories," Lift Ring
+","  EV Motor Lift Ring For NetGain
 Motors
 This lift ring is rated at 2400
 pounds lifting, an ...
-"," : Lift Ring
-"," : EV West
-",: 1.00,: 1.00
-Motor_Accessories,"  EV Specific Aluminum Lightweight
+",EV Motor Lift Ring For NetGain," : EV West
+",: 1.00,$7.00
+Motor_Accessories," FLYWH-
+VW-POR
+","  EV Specific Aluminum Lightweight
 Flywheel For Porsche and VW
 This exclusive EV West
 lightweight aluminum flywhe ...
-"," : FLYWH-
-VW-POR
-"," : EV West
-",: 5.00,: 5.00
-Motor_Accessories,"  EV W est Accessory Plate & Pump
+",EV Specific Aluminum Lightweight," : EV West
+",: 5.00,$498.00
+Motor_Accessories," ACC-5051
+","  EV W est Accessory Plate & Pump
 System For HPEVS AC-34/35/50/51
 This item is no longer available as
 we now have op ...
-"," : ACC-5051
-"," : EV West
-",: 30.00,: 30.00
-Motor_Accessories,"  EV W est Classic T achometer
+",EV W est Accessory Plate & Pump," : EV West
+",: 30.00,"$1,799.00"
+Motor_Accessories," EVW -
+CBTTS
+","  EV W est Classic T achometer
 Adapter for T esla Drive Unit CAN
 Bus Connection
 The EV West CAN Bus
 Tachometer adapter will allow ...
-"," : EVW -
-CBTTS
-"," : EV West
-",: 1.00,: 1.00
-Motor_Accessories,"  Porsche to T esla CV Joint
+",EV W est Classic T achometer," : EV West
+",: 1.00,$149.00
+Motor_Accessories," EVW -
+911930
+","  Porsche to T esla CV Joint
 Adapters for 91 1 to 930 Axles
 The EV West VW Tesla/Porsche
 axle adapters make se ...
-"," : EVW -
-911930
-"," : EV West
-",: 2.00,: 2.00
-Motor_Accessories,"  Universal Interference Fit Coupler
+",Porsche to T esla CV Joint," : EV West
+",: 2.00,$159.00MOT OR ACCESSORIES
+Motor_Accessories," Coupler
+","  Universal Interference Fit Coupler
 for Siemens, Remy and TM4 24
 Spline Motor Shafts
 4 inch couplers fit any
 standardized 24 spline ...
-"," : Coupler
-"," : EV West
-",: 7.00,: 7.00
-Motor_Adapters,"  Chevy Small Block Adapter
+",Universal Interference Fit Coupler," : EV West
+",: 7.00,$329.00
+Motor_Adapters,"
+","  Chevy Small Block Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Colorado/Canyon Adapter
+",Chevy Small Block Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Colorado/Canyon Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Dodge Neon Adapter
+",Colorado/Canyon Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Dodge Neon Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Echo/Scion Motor Adapter
+",Dodge Neon Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Echo/Scion Motor Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  EV W est BMW E10 2002 Billet
+",Echo/Scion Motor Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters," EVW -TA-
+E10
+","  EV W est BMW E10 2002 Billet
 Aluminum T ransmission Adapter
 This beautiful adapter will fit most
 9 inch motors ...
-"," : EVW -TA-
-E10
-"," : EV West
-",: 25.00,: 25.00
-Motor_Adapters,"  Ford Duratec Adapter
+",EV W est BMW E10 2002 Billet," : EV West
+",: 25.00,"$1,395.00"
+Motor_Adapters,"
+","  Ford Duratec Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Ford Ranger 2.3L  Adapter
+",Ford Duratec Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Ford Ranger 2.3L  Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Ford Ranger 3L  Adapter
+",Ford Ranger 2.3L  Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Ford Ranger 3L  Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Ford Small Block Adapter
+",Ford Ranger 3L  Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Ford Small Block Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  GEO Adapters
+",Ford Small Block Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  GEO Adapters
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Honda Adapter
+",GEO Adapters," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Honda Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Mazda B2300 Adapter
+",Honda Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Mazda B2300 Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Mazda B3000 Adapter
+",Mazda B2300 Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Mazda B3000 Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Mazda Miata
+",Mazda B3000 Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Mazda Miata
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Mazda RX7/RX8 Motor Adapter and
+",Mazda Miata," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Mazda RX7/RX8 Motor Adapter and
 Coupler
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Nissan Adapter
+",Mazda RX7/RX8 Motor Adapter and," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Nissan Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  S10 Adapter
+",Nissan Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  S10 Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Saturn Adapter
+",S10 Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Saturn Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Suzuki Adapter
+",Saturn Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Suzuki Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Toyota 1ZZ & 2ZZ Adapter
+",Suzuki Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Toyota 1ZZ & 2ZZ Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Toyota 22R adapter
+",Toyota 1ZZ & 2ZZ Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Toyota 22R adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  Toyota S Adapter
+",Toyota 22R adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters,"
+","  Toyota S Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motor_Adapters,"  VW Porsche Air Cooled Billet
+",Toyota S Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motor_Adapters," VW Dual
+Adpt
+","  VW Porsche Air Cooled Billet
 Aluminum T ransmission Dual
 Motor Adapter
 This all billet adapter will fit
 HPEVS AC-34, AC-3 ...
-"," : VW Dual
-Adpt
-"," : EV West
-",: 225.00,: 225.00
-Motor_Adapters,"  VW Rabbit Adapter
+",VW Porsche Air Cooled Billet," : EV West
+",: 225.00,"$2,999.00"
+Motor_Adapters,"
+","  VW Rabbit Adapter
 All adapters retain use of original
 clutch and fit ...
-"," :
-"," : Canadian EV
-",: 9.00,: 9.00
-Motors,"  AM Racing AMR 250-90 Single AC
+",VW Rabbit Adapter," : Canadian EV
+",: 9.00,"$1,300.00"
+Motors," AMR 250-
+90
+","  AM Racing AMR 250-90 Single AC
 Motor - Liquid Cooled, Permanent
 Magnet - Remy Cartridge
 This AM Racing motor is based
 on the very proven R ...
-"," : AMR 250-
-90
-"," : AM Racing
-",: 150.00,: 150.00
-Motors,"  AM Racing AMR Dual Stack 250-90
+",AM Racing AMR 250-90 Single AC," : AM Racing
+",: 150.00,"$10,900.00"
+Motors," AMR 250-
+90D
+","  AM Racing AMR Dual Stack 250-90
 AC Motor - Liquid Cooled,
 Permanent Magnet - Remy
 This AM Racing motor is based
 on the very proven R ...
-"," : AMR 250-
-90D
-"," : AM Racing
-",: 180.00,: 180.00
-Motors,"  Curtis 1236SE-5621 HPEVS AC-20
+",AM Racing AMR Dual Stack 250-90," : AM Racing
+",: 180.00,"$18,488.00"
+Motors," AC20/48
+","  Curtis 1236SE-5621 HPEVS AC-20
 Brushless AC Motor Kit - 48 V olt
 The AC20 is an AC induction
 motor that operates at ...
-"," : AC20/48
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1236SE-5621 HPEVS AC-34
+",Curtis 1236SE-5621 HPEVS AC-20," : HPEVS
+",: 60.00,"$3,050.00"
+Motors," AC-34-48
+","  Curtis 1236SE-5621 HPEVS AC-34
 Brushless AC Motor Kit - 48 V olts
 The AC-34 is an AC motor that
 operates at 36-60V. ...
-"," : AC-34-48
-"," : HPEVS
-",: 85.00,: 85.00
-Motors,"  Curtis 1236SE-5621 HPEVS AC-9
+",Curtis 1236SE-5621 HPEVS AC-34," : HPEVS
+",: 85.00,"$3,500.00"
+Motors," Motor
+","  Curtis 1236SE-5621 HPEVS AC-9
 Brushless AC Motor Kit - 48 V olt
 The AC-9 is an AC motor that
 operates at 36-60V. I ...
-"," : Motor
-"," : HPEVS
-",: 50.00,: 50.00
-Motors,"  Curtis 1238-6501 HPEVS AC-20
+",Curtis 1236SE-5621 HPEVS AC-9," : HPEVS
+",: 50.00,"$2,625.00"
+Motors," Motor
+","  Curtis 1238-6501 HPEVS AC-20
 Brushless AC Motor Kit - 72 V olt
 The AC-20 is an AC motor that
 operates at 48-80V. ...
-"," : Motor
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1238-6501 HPEVS AC-34
+",Curtis 1238-6501 HPEVS AC-20," : HPEVS
+",: 60.00,"$3,599.00"
+Motors," Motor
+","  Curtis 1238-6501 HPEVS AC-34
 Brushless AC Motor Kit - 72 V olt
 The AC-34 is an AC motor that
 operates at 48-80V. ...
-"," : Motor
-"," : HPEVS
-",: 85.00,: 85.00
-Motors,"  Curtis 1238-7601 HPEVS AC-20
+",Curtis 1238-6501 HPEVS AC-34," : HPEVS
+",: 85.00,"$4,225.00"
+Motors," Motor
+","  Curtis 1238-7601 HPEVS AC-20
 Brushless AC Motor Kit - 96 V olt
 The AC20 is an AC induction
 motor that operates at ...
-"," : Motor
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1238-7601 HPEVS AC-23
+",Curtis 1238-7601 HPEVS AC-20," : HPEVS
+",: 60.00,"$4,300.00"
+Motors," Motor
+","  Curtis 1238-7601 HPEVS AC-23
 Brushless AC Motor Kit - 96 V olt
 The AC 23 motor is same size as
 its sister motor t ...
-"," : Motor
-"," : HPEVS
-",: 60.00,: 60.00
-Motors,"  Curtis 1238-7601 HPEVS AC-34
+",Curtis 1238-7601 HPEVS AC-23," : HPEVS
+",: 60.00,"$3,800.00"
+Motors," AC-34-96
+","  Curtis 1238-7601 HPEVS AC-34
 Brushless AC Motor Kit - 96 V olt
 The AC-34 is an AC motor that
 operates at 72-128V. ...
-"," : AC-34-96
-"," : HPEVS
-",: 120.00,: 120.00
-Motors,"  Curtis 1238-7601 HPEVS AC-50
+",Curtis 1238-7601 HPEVS AC-34," : HPEVS
+",: 120.00,"$4,550.00"
+Motors," AC-50-96
+","  Curtis 1238-7601 HPEVS AC-50
 Brushless AC Motor Kit - 96 V olt
 The AC50 is an AC motor that
 operates at 72-108V. ...
-"," : AC-50-96
-"," : HPEVS
-",: 150.00,: 150.00
-Motors,"  Curtis 1238e-7621 HPEVS Dual AC-
+",Curtis 1238-7601 HPEVS AC-50," : HPEVS
+",: 150.00,"$5,200.00"
+Motors," AC2-34
+","  Curtis 1238e-7621 HPEVS Dual AC-
 34 Brushless Motor Kit - 96 V olt
 This is a great dual motor setup
 for vehicles up t ...
-"," : AC2-34
-"," : HPEVS
-",: 160.00,: 160.00
-Motors,"  Curtis 1239e-8521 HPEVS AC-35
+",Curtis 1238e-7621 HPEVS Dual AC-," : HPEVS
+",: 160.00,"$8,950.00"
+Motors," AC-35-144
+","  Curtis 1239e-8521 HPEVS AC-35
 Brushless AC Motor Kit - 144 V olt
 The AC35 is an AC motor that
 operates at 120-164V. ...
-"," : AC-35-144
-"," : HPEVS
-",: 120.00,: 120.00
-Motors,"  Curtis 1239e-8521 HPEVS AC-51
+",Curtis 1239e-8521 HPEVS AC-35," : HPEVS
+",: 120.00,"$4,825.00"
+Motors," AC-51-144
+","  Curtis 1239e-8521 HPEVS AC-51
 Brushless AC Motor Kit - 144 V olt
 The AC51 is an AC motor that
 operates at a higher ...
-"," : AC-51-144
-"," : HPEVS
-",: 150.00,: 150.00
-Motors,"  Curtis 1239e-8521 HPEVS Dual AC-
+",Curtis 1239e-8521 HPEVS AC-51," : HPEVS
+",: 150.00,"$5,499.00"
+Motors," AC2-35-144
+","  Curtis 1239e-8521 HPEVS Dual AC-
 35 Brushless Motor Kit - 144 V olt
 This is a great dual motor setup
 for vehicles up t ...
-"," : AC2-35-144
-"," : HPEVS
-",: 160.00,: 160.00
-Motors,"  NetGain HyPer9 AC Motor X1
+",Curtis 1239e-8521 HPEVS Dual AC-," : HPEVS
+",: 160.00,"$10,100.00"
+Motors," H9-ACX1
+","  NetGain HyPer9 AC Motor X1
 Controller Kit 120 V olt
 The long awaited AC motor from
 NetGain is here. T ...
-"," : H9-ACX1
-"," : NetGain
+",NetGain HyPer9 AC Motor X1," : NetGain
 Motors
-",: 120.00,: 120.00
-Motors,"  NetGain HyPer9 HV AC Motor X144
+",: 120.00,"$5,150.00"
+Motors," H9HV -
+ACX144
+","  NetGain HyPer9 HV AC Motor X144
 Controller Kit 144 V olt
 The long awaited higher voltage
 AC motor from Net ...
-"," : H9HV -
-ACX144
-"," : NetGain
+",NetGain HyPer9 HV AC Motor X144," : NetGain
 Motors
-",: 120.00,: 120.00
-Motors,"  Tesla Dual Motor All Wheel Drive
+",: 120.00,"$5,400.00"
+Motors," TSLA-MS-
+AWD
+","  Tesla Dual Motor All Wheel Drive
 Kit - EV Controls T2-C Controller
-We now have the Tesla "," S
-dual drive unit for ...
-"," : Tesla
-",: 550.00,: 550.00
-Motors,"  Tesla Front Motor Kit - EV Controls
+We now have the Tesla ",Tesla Dual Motor All Wheel Drive," : Tesla
+",: 550.00,"$17,900.00"
+Motors," TSLA-MS-
+FRT
+","  Tesla Front Motor Kit - EV Controls
 T2-C Controller
-We now have the Tesla "," S
-front drive unit for ...
-"," : Tesla
-",: 230.00,: 230.00
-Motors,  Tesla ," 3 Rear Drive Unit -
-Starter Kit - EV Controls T2-C
-Controller
-With such a small total package,
-this drive unit s ...
-"," : Tesla
-",: 225.00,: 225.00
-Motors,  Tesla ," S Drive Unit - Starter
-Kit - EV Controls T2-C Controller
-We now have the Tesla "," : Tesla
-",: 295.00,: 295.00
-Motors,"  Tesla Small Rear Drive Unit -
-Starter Kit - EV Controls T2-C
-Controller
-With such a small total package,
-this drive unit s ...
-"," : TSLA-MS-
+We now have the Tesla ",Tesla Front Motor Kit - EV Controls," : Tesla
+",: 230.00,"$9,900.00"
+Motors," TSLA-M3-
+T2C
+",  Tesla ,Tesla," : Tesla
+",: 225.00,"$9,900.00"
+Motors," TSLA-MS-
+DU
+",  Tesla ,Tesla," : Tesla
+",: 295.00,"$11,900.00"
+Motors," TSLA-MS-
 SDU
-"," : Tesla
-",: 225.00,: 225.00
-Services,"  EV101 T raining Class - Hosted by
+","  Tesla Small Rear Drive Unit -
+Starter Kit - EV Controls T2-C
+Controller
+With such a small total package,
+this drive unit s ...
+",Tesla Small Rear Drive Unit -," : Tesla
+",: 225.00,"$9,900.00"
+Services," EVLC-
+EV101.3
+","  EV101 T raining Class - Hosted by
 the Electric V ehicle T raining Center
 About this event: Who: Open to
 the public with pr ...
-"," : EVLC-
-EV101.3
-"," : EV West
-",: 0.00,: 0.00
-Services,"  Performance Specification &
+",EV101 T raining Class - Hosted by," : EV West
+",: 0.00,"$1,500.00"
+Services," Free
+Consult
+","  Performance Specification &
 Review
 Bring your EV by for a free review
 of your perform ...
-"," : Free
-Consult
-"," : EV West
-",: 0.00,: 0.00
-Services,"  Technical Support & Counseling -
+",Performance Specification &," : EV West
+",: 0.00,$0.00
+Services," Support
+","  Technical Support & Counseling -
 15 Minutes
 Building your own EV and need
 that little extra su ...
-"," : Support
-"," : EV West
-",: 0.00,: 0.00
-Services,"  Vehicle Wheel Scales, Corner
+",Technical Support & Counseling -," : EV West
+",: 0.00,$25.00
+Services,"
+","  Vehicle Wheel Scales, Corner
 Balancing
 Come get your vehicle Corner
 balanced with our sta ...
-"," :
-"," : EV West
-",: 0.00,: 0.00
-Used_Components,"  2 Pole T yco High V oltage
+","Vehicle Wheel Scales, Corner"," : EV West
+",: 0.00,$50.00
+Used_Components," SC-HVC
+","  2 Pole T yco High V oltage
 Receptacle Connector and Cable
 Plug from Electric Smart Car
 These Two Pole Tyco connectors
 were used in a 330V ...
-"," : SC-HVC
-"," : Tyco Kilovac
-",: 5.00,: 5.00
-Used_Components,"  200 Amp 50 mV Shunt from
+",2 Pole T yco High V oltage," : Tyco Kilovac
+",: 5.00,$60.00
+Used_Components," SC-SHUNT
+","  200 Amp 50 mV Shunt from
 Electric Smart Car
 This 200 Amp 50 MV commercial
 shunt by Empro has l ...
-"," : SC-SHUNT
-"," : Empro
+",200 Amp 50 mV Shunt from," : Empro
 Shunts
-",: 0.00,: 0.00
-Used_Components,"  In-line Fluid Heater from Electric
+",: 0.00,$20.00
+Used_Components," SC-WH
+","  In-line Fluid Heater from Electric
 Smart Car
 This used Calix in-line water
 heater is Swedish ma ...
-"," : SC-WH
-"," : Smart
-",: 1.00,: 1.00
-Used_Components,"  Precharge Resistor from T esla and
+",In-line Fluid Heater from Electric," : Smart
+",: 1.00,$60.00
+Used_Components," SC-PCR
+","  Precharge Resistor from T esla and
 Electric Smart Car
 These precharge resistors are
 made by RARA, a high ...
-"," : SC-PCR
-"," : Tesla
-",: 0.00,: 0.00
-Used_Components,  Tesla ," S Lithium Ion Battery
-18650 EV Module - 22.8 V olt, 5.3
-kWh
-These used 18650 Tesla battery
-modules from a 85kW ...
-"," : Tesla
-",: 55.00,: 55.00
-Used_Components,"  Used 1500W Electric V ehicle
+",Precharge Resistor from T esla and," : Tesla
+",: 0.00,$29.00
+Used_Components," Tesla MS
+",  Tesla ,Tesla," : Tesla
+",: 55.00,"$1,580.00"
+Used_Components," SC-HE
+","  Used 1500W Electric V ehicle
 Heater , Ceramic PTC Element -
 From Electric Smart Car
 This ceramic PTC electric heater
 from an OEM proto ...
-"," : SC-HE
-"," : Behr
-",: 3.00,: 3.00
-Used_Components,"  Used Inertia Switch from Electric
+",Used 1500W Electric V ehicle," : Behr
+",: 3.00,$99.00
+Used_Components," SC-
+INER TIA
+","  Used Inertia Switch from Electric
 Smart Car
 This USED 360 degree crash
 sensor can directly shu ...
-"," : SC-
-INER TIA
-"," :
-",: 1.00,: 1.00
-Used_Components,"  Used Radiator Fan from Electric
+",Used Inertia Switch from Electric," :
+",: 1.00,$25.00
+Used_Components," SC-F AN
+","  Used Radiator Fan from Electric
 Smart Car
 This Behr fan is from the radiator
 assembly of a S ...
-"," : SC-F AN
-"," : Smart
-",: 3.00,: 3.00
-Used_Components,"  Used Radiator from Electric Smart
+",Used Radiator Fan from Electric," : Smart
+",: 3.00,$40.00
+Used_Components," SC-RAD
+","  Used Radiator from Electric Smart
 Car
 This Behr radiator was in a
 cooling system with a ...
-"," : SC-RAD
-"," : Smart
-",: 4.00,: 4.00
-Used_Components,"  Used Throttle Pedal with Plug -
+",Used Radiator from Electric Smart," : Smart
+",: 4.00,$80.00
+Used_Components," SC-PED
+","  Used Throttle Pedal with Plug -
 From Electric Smart Car
 These Used Smart FourTwo
 pedals create acceleratio ...
-"," : SC-PED
-"," : Smart
-",: 1.00,: 1.00
-Used_Components,"  Used T oyota Prius Throttle Pedal
+",Used Throttle Pedal with Plug -," : Smart
+",: 1.00,$80.00
+Used_Components," Throttle
+","  Used T oyota Prius Throttle Pedal
 with Plug 78120-47050
 These Standard OE Motor
 accelerator pedal sensors ...
-"," : Throttle
-"," : EV West
-",: 2.00,: 2.00
-Used_Components,"  Used W ater Pump from Electric
+",Used T oyota Prius Throttle Pedal," : EV West
+",: 2.00,$139.00
+Used_Components," SC-WP
+","  Used W ater Pump from Electric
 Smart Car
 This OEM pump has been used
 for less than 5000 mil ...
-"," : SC-WP
-"," : Smart
-",: 3.00,: 3.00
+",Used W ater Pump from Electric," : Smart
+",: 3.00,$80.00

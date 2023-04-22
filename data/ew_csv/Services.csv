@@ -1,31 +1,31 @@
-category,model,model_name,manufacturer,weight,price
-Services,"  EV101 T raining Class - Hosted by
+category,model,model_description,model_name,manufacturer,weight,price
+Services," EVLC-
+EV101.3
+","  EV101 T raining Class - Hosted by
 the Electric V ehicle T raining Center
 About this event: Who: Open to
 the public with pr ...
-"," : EVLC-
-EV101.3
-"," : EV West
-",: 0.00,: 0.00
-Services,"  Performance Specification &
+",EV101 T raining Class - Hosted by," : EV West
+",: 0.00,"$1,500.00"
+Services," Free
+Consult
+","  Performance Specification &
 Review
 Bring your EV by for a free review
 of your perform ...
-"," : Free
-Consult
-"," : EV West
-",: 0.00,: 0.00
-Services,"  Technical Support & Counseling -
+",Performance Specification &," : EV West
+",: 0.00,$0.00
+Services," Support
+","  Technical Support & Counseling -
 15 Minutes
 Building your own EV and need
 that little extra su ...
-"," : Support
-"," : EV West
-",: 0.00,: 0.00
-Services,"  Vehicle Wheel Scales, Corner
+",Technical Support & Counseling -," : EV West
+",: 0.00,$25.00
+Services,"
+","  Vehicle Wheel Scales, Corner
 Balancing
 Come get your vehicle Corner
 balanced with our sta ...
-"," :
-"," : EV West
-",: 0.00,: 0.00
+","Vehicle Wheel Scales, Corner"," : EV West
+",: 0.00,$50.00
