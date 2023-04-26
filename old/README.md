@@ -12,3 +12,6 @@ I will focus on storing and analyzing data related to EV charging stations, prod
 
 Finally, I will use Tableau and Postgres SQL to create reports that will help the business make data-driven decisions based on the data stored in the data warehouse. By using a consolidated ERD schema and slowly changing dimensions, I will ensure that the data warehouse accurately reflects the business needs and can be used to provide valuable insights to the organization.
 
+*** Road Map**
+Planned project imporevements:
+- ev charging station table: ev_charhing_station_id : this is a source code and might confuse the end user, I will remove this from my design 
