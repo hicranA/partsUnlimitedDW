@@ -4,12 +4,12 @@
 The topic I wish to explore for my data warehouse project is the management of Parts Unlimited's EV parts business, inspired by the book "The Unicorn Project"(Auther: Gene Kim).  This project aims to improve the organization's data management, reporting, and analysis capabilities related to its existing EV parts business.
 
 ## Files Included:
-data folder: Inculudes csv files and pdf files for the data warehouse from the different data source (please project documents folder for more information about the data sets)
-figures and images folder: the images and figures used in the documenatain of the project.
-project documents folder: inculudes project presentation, project research document and ipynb file. 
-elt files: please see etl process of each fact tables
+* data folder: Inculudes csv files and pdf files for the data warehouse from the different data source (please project documents folder for more information about the data sets)
+* figures and images folder: the images and figures used in the documenatain of the project.
+* project documents folder: inculudes project presentation, project research document and ipynb file. 
+* elt files: please see etl process of each fact tables
 queries file :Using sql queries to respond business questions.
-scd maintance file: this file provides information and example of how to maintain datawarehouse dimention tables keys and scd maintance. 
+* scd maintance file: this file provides information and example of how to maintain datawarehouse dimention tables keys and scd maintance. 
 
 ## Project Summary:
 The primary objective of this project was to create a concept data warehouse project using a slowly changing dimension approach. I identified the business requirements and developed a consolidated ERD schema for the data warehouse, focusing on storing and analyzing data related to EV charging stations, product information, customer purchases, and geographic location.
